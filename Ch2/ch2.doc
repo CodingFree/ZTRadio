@@ -1,0 +1,116 @@
+{\rtf1\ansi\ansicpg1252\deff0\uc1
+{\fonttbl
+{\f0\fnil\fcharset0\fprq0\fttruetype Liberation Sans;}
+{\f1\fnil\fcharset0\fprq0\fttruetype Times New Roman;}
+{\f2\fnil\fcharset0\fprq0\fttruetype Courier New;}}
+{\colortbl
+\red0\green0\blue0;
+\red255\green255\blue255;
+\red255\green255\blue255;}
+{\stylesheet
+{\s6\fi-430\li720\sbasedon28\snext28 Contents 1;}
+{\s7\fi-430\li1440\sbasedon28\snext28 Contents 2;}
+{\s1\fi-430\li720 Arrowhead List;}
+{\s27\fi-430\li720\sbasedon28 Lower Roman List;}
+{\s29\tx431\sbasedon20\snext28 Numbered Heading 1;}
+{\s30\tx431\sbasedon21\snext28 Numbered Heading 2;}
+{\s12\fi-430\li720 Diamond List;}
+{\s9\fi-430\li2880\sbasedon28\snext28 Contents 4;}
+{\s8\fi-430\li2160\sbasedon28\snext28 Contents 3;}
+{\s31\tx431\sbasedon22\snext28 Numbered Heading 3;}
+{\s32\fi-430\li720 Numbered List;}
+{\s15\sbasedon28 Endnote Text;}
+{\*\cs14\fs20\super Endnote Reference;}
+{\s4\fi-430\li720 Bullet List;}
+{\s5\tx1584\sbasedon29\snext28 Chapter Heading;}
+{\s35\fi-430\li720 Square List;}
+{\s11\fi-430\li720 Dashed List;}
+{\s22\sb440\sa60\f0\fs24\b\sbasedon28\snext28 Heading 3;}
+{\s37\fi-430\li720 Tick List;}
+{\s24\fi-430\li720 Heart List;}
+{\s40\fi-430\li720\sbasedon32 Upper Roman List;}
+{\s39\fi-430\li720\sbasedon32 Upper Case List;}
+{\s16\fi-288\li288\fs20\sbasedon28 Footnote;}
+{\s19\fi-430\li720 Hand List;}
+{\s18\fs20\sbasedon28 Footnote Text;}
+{\s20\sb440\sa60\f0\fs34\b\sbasedon28\snext28 Heading 1;}
+{\s21\sb440\sa60\f0\fs28\b\sbasedon28\snext28 Heading 2;}
+{\s10\qc\sb240\sa119\f0\fs32\b\sbasedon28\snext28 Contents Header;}
+{\s23\sb440\sa60\f0\fs24\b\sbasedon28\snext28 Heading 4;}
+{\s28\f1\fs24 Normal;}
+{\s26\fi-430\li720\sbasedon32 Lower Case List;}
+{\s2\li1440\ri1440\sa119\sbasedon28 Block Text;}
+{\s33\f2\sbasedon28 Plain Text;}
+{\s34\tx1584\sbasedon29\snext28 Section Heading;}
+{\s25\fi-430\li720 Implies List;}
+{\s3\fi-430\li720 Box List;}
+{\s36\fi-430\li720 Star List;}
+{\*\cs17\fs20\super Footnote Reference;}
+{\s38\fi-430\li720 Triangle List;}
+{\s13\fi-288\li288\sbasedon28 Endnote;}}
+{\*\listtable
+{\list\listtemplateid1023\listsimple{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}\listid1000}
+{\list\listtemplateid1024\listsimple{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-430\li720{\leveltext\'02\'00.;}{\levelnumbers\'01;}}\listid1012}}
+{\*\listoverridetable
+{\listoverride\listoverridecount0\listid1000\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\ls1}
+{\listoverride\listoverridecount0\listid1012\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-430\li720{\leveltext\'02\'00.;}{\levelnumbers\'01;}\ls2}}
+
+\kerning0\cf0\ftnbj\fet2\ftnstart1\ftnnar\aftnnar\ftnstart1\aftnstart1\aenddoc\revprop3{\*\rdf}{\info\uc1}\deftab720\viewkind1\paperw12240\paperh15840\margl1440\margr1440\widowctrl
+\sectd\sbknone\colsx360\pgncont\ltrsect
+\pard\plain\ltrpar\ql\sb440\sa60\s20\sl240\slmult1\itap0{\s20\f0\fs34\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Laboratory 2}{\s20\f0\fs34\b\lang1033{\*\listtag0}\par}
+{\listtext\pard\sb440\sa60 1.	}\pard\plain{\ltrpar\ql\sb440\sa60\s30{\*\abilist\abilistid1000\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Liberation Sans}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\sl240\slmult1\itap0\tx431{\s30\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Introduction}{\s30\f0\fs34\b\lang1033{\*\listtag0}\par}
+}\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch This laboratory will explain the basics of GNU Radio, how do the GRC files work and how to create our own Python code to develop a real project. It requires to be familiar with Python because despite there is a graphical interface to design systems, it could be needed to create a block or to add some functionalities that are not easily reachable with the graphical interface.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch GNU Radio is a free software released under the GNU General Public License with more than 15 years of development. Because of that, it is a consolidated toolkit that provides capabilities to implement signal processing systems.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\sb440\sa60 2.	}\pard\plain{\ltrpar\ql\sb440\sa60\s30{\*\abilist\abilistid1000\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Liberation Sans}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\sl240\slmult1\itap0\tx431{\s30\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch GNU Radio Companion}{\s30\f1\fs24\lang1033{\*\listtag0}\par}
+}\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch  GNU Radio has a graphical user interface called GNU Radio Companion. This is the front/end used to design signal processing systems graphically. Despite GNU Radio can be use with C++, GNU Radio Companion only generates the code in Python, that is why Python is the most used language and that is why the laboratory will be based on Python.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch GNU Radio Companion can be opened by typing its name in a terminal:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch It will open a GNU Radio Companion which will show a blank canvas with two default blocks, one of them for the options and another one will be a variable for the sampling rate of the system. With the list located to the right, it will be possible to add blocks in this canvas.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure1}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch If you do double-click in any element from that list, it will be added directly to the canvas. For example, if you do double-click on the Signal Source label, Waveform Generators section, it will appear in the canvas. It will have a red name, which indicates that it needs to me connected somewhere in order to work.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 3}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Following the nomenclature, the input of the system will be the source while the output will be the sink. In this case, the signal source must be connected to a sink in order to generate an output. For this example, we will connect two sources to an audio sink.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Add another signal source and find the audio sink in the Audio section:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 4}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The three blocks must be connected. However, it is not possible to connect two sources to the same input directly. The audio sink should have two inputs, but it is possible to change the properties of the audio sink by doing double-click on its block. Then, the number of inputs can be set to two:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 5}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Now, by clicking the blue tab from the signal sources and then clicking in the orange tab from the audio sink it will be possible to connect the blocks.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 6}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch There will be two red arrows pointing the audio sink. Any error can be checked by clicking the exclamation mark in the tool-bar. An emerging window will show and explain any error in the Python code that will be generated eventually.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 7}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The error says:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch  Source IO size "8" does not match sink IO size "4".}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch This error means that the source signal is generating a type of data which is not compatible with the type of data accepted by the next block, in this case by the sink. It is possible to modify the properties of the source signals to change the type. In order to achieve this, the properties can be accessed by doing double-click to the blocks. Then, the only change that it is needed to solve the problem is to modify the property Output Type in both blocks from Complex to Float:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 8}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Now,, the arrows pointing the audio sink will be black and it will be possible to test the system. There is an action in the tool-bar, under the Tools section, to execute the project:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 9}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch It will ask to save our project and afterwards it will compile and run the project.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\sb440\sa60 3.	}\pard\plain{\ltrpar\ql\sb440\sa60\s30{\*\abilist\abilistid1000\abilistlevel1\abistartat1{\abifieldfont Liberation Sans}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\itap0\tx431{\s30\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Questions}{\s30\f0\fs28\b\lang1033{\*\listtag1011}\par}
+}{\listtext\pard\fi-430\li720 1.	}\pard\plain{\ltrpar\ql\fi-430\li720\s28{\*\abilist\abilistid1012\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-430\li720\ls2\ilvl0\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch What happens if the property for the frequency of the two sources changes?}{\s28\f1\fs24\lang1033{\*\listtag1013}\par}
+}{\listtext\pard\fi-430\li720 2.	}\pard\plain{\ltrpar\ql\fi-430\li720\s28{\*\abilist\abilistid1012\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-430\li720\ls2\ilvl0\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Change the waveform. Instead of a cosine, what happens if it is a constant?}{\s28\f1\fs24\lang1033{\*\listtag1014}\par}
+}{\listtext\pard\fi-430\li720 3.	}\pard\plain{\ltrpar\ql\fi-430\li720\s28{\*\abilist\abilistid1012\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-430\li720\ls2\ilvl0\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch How it would be possible to modify the amplitude to 0.5?}{\s28\f1\fs24\lang1033{\*\listtag1015}\par}
+}{\listtext\pard\fi-430\li720 4.	}\pard\plain{\ltrpar\ql\fi-430\li720\s28{\*\abilist\abilistid1012\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-430\li720\ls2\ilvl0\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch What would happen if the sample rate is half of the sample rate and how is related to the sample rate of the audio sink? This is the way to divide the sample rate by two:\line \line figure 10\page }{\s28\f1\fs24\lang1033{\*\listtag1016}\par}}}
