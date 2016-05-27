@@ -1,0 +1,7 @@
+/*!
+ * \defgroup block GNU Radio MULTIPLIER C++ Signal Processing Blocks
+ * \brief All C++ blocks that can be used from the MULTIPLIER GNU Radio
+ *        module are listed here or in the subcategories below.
+ *
+ */
+

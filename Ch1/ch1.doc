@@ -1,0 +1,132 @@
+{\rtf1\ansi\ansicpg1252\deff0\uc1
+{\fonttbl
+{\f0\fnil\fcharset0\fprq0\fttruetype Liberation Sans;}
+{\f1\fnil\fcharset0\fprq0\fttruetype Times New Roman;}
+{\f2\fnil\fcharset0\fprq0\fttruetype Courier New;}}
+{\colortbl
+\red0\green0\blue0;
+\red255\green255\blue255;
+\red255\green255\blue255;}
+{\stylesheet
+{\s6\fi-431\li720\sbasedon28\snext28 Contents 1;}
+{\s7\fi-431\li1440\sbasedon28\snext28 Contents 2;}
+{\s1\fi-431\li720 Arrowhead List;}
+{\s27\fi-431\li720\sbasedon28 Lower Roman List;}
+{\s29\tx431\sbasedon20\snext28 Numbered Heading 1;}
+{\s30\tx431\sbasedon21\snext28 Numbered Heading 2;}
+{\s12\fi-431\li720 Diamond List;}
+{\s9\fi-431\li2880\sbasedon28\snext28 Contents 4;}
+{\s8\fi-431\li2160\sbasedon28\snext28 Contents 3;}
+{\s31\tx431\sbasedon22\snext28 Numbered Heading 3;}
+{\s32\fi-431\li720 Numbered List;}
+{\s15\sbasedon28 Endnote Text;}
+{\*\cs14\fs20\super Endnote Reference;}
+{\s4\fi-431\li720 Bullet List;}
+{\s5\tx1584\sbasedon29\snext28 Chapter Heading;}
+{\s35\fi-431\li720 Square List;}
+{\s11\fi-431\li720 Dashed List;}
+{\s22\sb440\sa60\f0\fs24\b\sbasedon28\snext28 Heading 3;}
+{\s37\fi-431\li720 Tick List;}
+{\s24\fi-431\li720 Heart List;}
+{\s40\fi-431\li720\sbasedon32 Upper Roman List;}
+{\s39\fi-431\li720\sbasedon32 Upper Case List;}
+{\s16\fi-288\li288\fs20\sbasedon28 Footnote;}
+{\s19\fi-431\li720 Hand List;}
+{\s18\fs20\sbasedon28 Footnote Text;}
+{\s20\sb440\sa60\f0\fs34\b\sbasedon28\snext28 Heading 1;}
+{\s21\sb440\sa60\f0\fs28\b\sbasedon28\snext28 Heading 2;}
+{\s10\qc\sb240\sa120\f0\fs32\b\sbasedon28\snext28 Contents Header;}
+{\s23\sb440\sa60\f0\fs24\b\sbasedon28\snext28 Heading 4;}
+{\s28\f1\fs24 Normal;}
+{\s26\fi-431\li720\sbasedon32 Lower Case List;}
+{\s2\li1440\ri1440\sa120\sbasedon28 Block Text;}
+{\s33\f2\sbasedon28 Plain Text;}
+{\s34\tx1584\sbasedon29\snext28 Section Heading;}
+{\s25\fi-431\li720 Implies List;}
+{\s3\fi-431\li720 Box List;}
+{\s36\fi-431\li720 Star List;}
+{\*\cs17\fs20\super Footnote Reference;}
+{\s38\fi-431\li720 Triangle List;}
+{\s13\fi-288\li288\sbasedon28 Endnote;}}
+{\*\listtable
+{\list\listtemplateid1013\listsimple{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}\listid1000}}
+{\*\listoverridetable
+{\listoverride\listoverridecount0\listid1000\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\ls1}}
+
+\kerning0\cf0\ftnbj\fet2\ftnstart1\ftnnar\aftnnar\ftnstart1\aftnstart1\aenddoc\revprop3{\*\rdf}{\info\uc1}\deftab720\viewkind1\paperw12240\paperh15840\margl1440\margr1440\widowctrl
+\sectd\sbknone\colsx360\pgncont\ltrsect
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sb440\sa60\s20\itap0{\s20\f0\fs34\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Introduction to Python.}{\s20\f0\fs34\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\sb440\sa60 1.	}\pard\plain{\ltrpar\ql\sb440\sa60\s30{\*\abilist\abilistid1000\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Liberation Sans}{\abilistdecimal }{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\itap0\tx431{\s30\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Introduction}{\s30\f0\fs28\b\lang1033{\*\listtag1001}\par}
+}\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Python is a interpreted, object-oriented, and high-level programming}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch language. It was created during 1985-1990 by Guido van Rosssum and It is delivered under the important differences in this language that must be considered when using Python to develop projects for GNU Radio:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Types: In some languages the types are strictly declared. This is the case of C++, the type must be defined before using the variable. In Python, the types are assigned during runtime and they cannot be easily changed.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch All parameters are passed by value in Python. All variables are references to objects, this means that when you do a copy of a variable, you are doing another reference to the same objects. In C, it is similar to getting a copy of a pointer.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Memory management: C++ does not have garbage collections while Python does. For example, Python maintains a reference count for every reference made to an object: when the reference is zero, it deallocates the object because it is no longer used. Beyond this technique, it uses more specific algorithms to enhance the performance of the memory.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Interpreted language: While other languages are compiled, Python is an interpreted language that does not need to run a compilation stage.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\sb440\sa60 2.	}\pard\plain{\ltrpar\ql\sb440\sa60\s30{\*\abilist\abilistid1000\abilistlevel1\abistartat1{\abifieldfont Liberation Sans}{\abilistdecimal }{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\itap0\tx431{\s30\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Hello World}{\s30\f0\fs28\b\lang1033{\*\listtag1003}\par}
+}\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Though typically synonymous with a shell or text terminal, a terminal allows the user access to all its applications such as the command line interfaces. Python uses a command line interface, so in order to use the Python interpreter it is needed to use the shell. You can use XTerm from the menu of applications, as show in the following figure:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch snapshot.png}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch At the shell prompt, enter the Python interpreter by typing:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch python}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch snapshot1.png}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch This is the interpreter, it uses Python functions and it can evaluate expressions. For example, you can print strings with the print command:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch snapshot2.png}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\sb440\sa60 3.	}\pard\plain{\ltrpar\ql\sb440\sa60\s30{\*\abilist\abilistid1000\abilistlevel1\abistartat1{\abifieldfont Liberation Sans}{\abilistdecimal }{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\itap0\tx431{\s30\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Mathematical operations}{\s30\f0\fs28\b\lang1033{\*\listtag1005}\par}
+}\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Python is able to evaluate mathematical expressions using the interpreter. If only integers are used, then the results will be rounded:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch snapshot3.png}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch To use a floating-point variable, It needs to be specified a decimal point, at least in one of the operands. Python will manage the types to generate a result in decimal format:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch snapshot5.png}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch To use more advanced operations, the interpreter needs to load the mathematical module. In order to do this you will need to use the \'e2\uc1\u8364\'80\uc1\u339\'9cimport\'e2\uc1\u8364\'80\'9d command. To list what is available in this module, use the command dir\{math):}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch snapshot6.png}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch These are the functions that belong to the module math. Of you are uncertain about how to use any function from the mathematical module, type:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch help(math.name)}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch In this example, it is example it is shown how to use the function pow.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch snapshot8.png}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch However, it should be noticed that it is not the same function if you do not use the module name. If you use the built-in function and you do:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch help(pow)}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Surprisingly, it is a different function that accepts up to three arguments. It says that the third argument is used to calculate the module, which can be useful when performing calculations in modular arithmetic..}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch snapshot7.png}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\sb440\sa60 4.	}\pard\plain{\ltrpar\ql\sb440\sa60\s30{\*\abilist\abilistid1000\abilistlevel1\abistartat1{\abifieldfont Liberation Sans}{\abilistdecimal }{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\itap0\tx431{\s30\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Variables}{\s30\f0\fs28\b\lang1033{\*\listtag1010}\par}
+}\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch These mathematical expressions generate a result that can be assigned to a variable. While in Matlab you can specify If you want to display the output of an operation, by default it is omitted in Python. In order to show the result you must either evaluate the variable or print it:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch snapshot9.png}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Lists are denoted by square brackets and you can assign a list to a variable. Also, they can have any kind of value inside, for example strings and integers:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch snapshot10.png}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch To select an element from a list, use square brackets. As it happens in C++, the first element of the list will have an index zero. Also, it can be specified a range of values just like in Matlab:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch snapshot11.png}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\sb440\sa60 5.	}\pard\plain{\ltrpar\ql\sb440\sa60\s30{\*\abilist\abilistid1000\abilistlevel1\abistartat1{\abifieldfont Liberation Sans}{\abilistdecimal }{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\itap0\tx431{\s30\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Functions}{\s30\f0\fs28\b\lang1033{\*\listtag1012}\par}
+}\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}}
