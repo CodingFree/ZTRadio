@@ -61,14 +61,14 @@ class top_block(gr.top_block, Qt.QWidget):
         # Blocks
         ##################################################
         self.audio_sink_0 = audio.sink(samp_rate, "", True)
-        self.analog_sig_source_x_1 = analog.sig_source_f(samp_rate/2, analog.GR_COS_WAVE, 1000, 1, 0)
-        self.analog_sig_source_x_0 = analog.sig_source_f(samp_rate/2, analog.GR_COS_WAVE, 12000, 1, 0)
+        self.analog_sig_source_x_1 = analog.sig_source_f(samp_rate, analog.GR_COS_WAVE, 1000, 1, 0)
+        self.analog_sig_source_x_0 = analog.sig_source_f(samp_rate, analog.GR_COS_WAVE, 12000, 1, 0)
 
         ##################################################
         # Connections
         ##################################################
-        self.connect((self.analog_sig_source_x_0, 0), (self.audio_sink_0, 0))    
-        self.connect((self.analog_sig_source_x_1, 0), (self.audio_sink_0, 1))    
+        self.connect((self.analog_sig_source_x_0, 0), (self.audio_sink_0, 0))
+        self.connect((self.analog_sig_source_x_1, 0), (self.audio_sink_0, 1))
 
     def closeEvent(self, event):
         self.settings = Qt.QSettings("GNU Radio", "top_block")
