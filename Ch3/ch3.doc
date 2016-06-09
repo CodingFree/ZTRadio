@@ -49,7 +49,7 @@
 {\s38\fi-431\li720 Triangle List;}
 {\s13\fi-288\li288\sbasedon28 Endnote;}}
 {\*\listtable
-{\list\listtemplateid1009\listsimple{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}\listid1002}}
+{\list\listtemplateid1014\listsimple{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}\listid1002}}
 {\*\listoverridetable
 {\listoverride\listoverridecount0\listid1002\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\ls1}}
 
@@ -93,5 +93,55 @@
 \pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 6}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-{\listtext\pard\sb440\sa60 3.	}\pard\plain{\ltrpar\ql\sb440\sa60\s30{\*\abilist\abilistid1002\abilistlevel1\abistartat1{\abifieldfont Liberation Sans}{\abilistdecimal }{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\itap0\tx431{\s30\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Programming the new block}{\s30\f0\fs28\b\lang1033{\*\listtag1008}\par}
-}\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}}
+{\listtext\pard\sb440\sa60 3.	}\pard\plain{\ltrpar\ql\sb440\sa60\s30{\*\abilist\abilistid1002\abilistlevel1\abistartat1{\abifieldfont Liberation Sans}{\abilistdecimal }{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\itap0\tx431{\s30\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Defining the constructor}{\s30\f0\fs28\b\lang1033{\*\listtag1008}\par}
+}\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The import function has been already explained in the previous examples, they can be skipped until the init function. It is a constructor that has two arguments: the first one is mandatory, it is a reference to the own object, it is used to have visibility to the whole scope of the object. The second argument will be the integer that will be used to multiply the amplitude of the signal.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 7}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The following lines are using the properties inherited from the parent type. The parent type is }{\s28\f1\fs24\lang1033{\*\listtag0}gr.sync_block and it is a default block of GNU Radio, it is the base type for any block used in GNU Radio. It will need three arguments in its constructor: the name of the block, an input vector and an output vector:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 8}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The symbols \uc0\u-257 <+...+> mean that it is a placeholder created automatically by gr_modtool. Since it will use a vector of float elements, the type should be numpy.float32.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 9}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The last line only assigns the argument to the properties of the current object:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 10}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\sb440\sa60 4.	}\pard\plain{\ltrpar\ql\sb440\sa60\s30{\*\abilist\abilistid1002\abilistlevel1\abistartat1{\abifieldfont Liberation Sans}{\abilistdecimal }{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\itap0\tx431{\s30\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Creating the function}{\s30\f0\fs28\b\lang1033{\*\listtag1010}\par}
+}\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The function work will have the code corresponding to the functionality of three block. It requires again a reference to the own object, self, and it takes two additional arguments: the input and the output of the function. The in0 and out variables are used simply to rename the arguments in a shorter way:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 11}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The input vector can be multiplied by the multiple and assigned to the output. This output }{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 12}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\sb440\sa60 5.	}\pard\plain{\ltrpar\ql\sb440\sa60\s30{\*\abilist\abilistid1002\abilistlevel1\abistartat1{\abifieldfont Liberation Sans}{\abilistdecimal }{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\itap0\tx431{\s30\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Editing the XML configuration}{\s30\f0\fs28\b\lang1033{\*\listtag1011}\par}
+}\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Inside of the \uc1\u8220\'93grc\uc1\u8221\'94 folder, there is a XML file. This file is used by GNU Radio Companion to define the properties of the block. There will be one XML file for each block in the folder:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 13}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Some properties, such as the name or the category of the block, can be edited in the following lines. The key needs to be unique because it will identify the block, if there are two blocks with the same key it will lead into an error:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch fgure.14}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The \uc1\u8220\'93param\uc1\u8221\'94 nodes define each argument of the block. In this example there is only one block named \uc1\u8220\'93multiple\uc1\u8221\'94, but if there were more arguments, there should be one node for each argument of the function. The multiple needs to have the same type that was specified in the Python code: The same will happen with the sink and the source:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 15}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\sb440\sa60 6.	}\pard\plain{\ltrpar\ql\sb440\sa60\s30{\*\abilist\abilistid1002\abilistlevel1\abistartat1{\abifieldfont Liberation Sans}{\abilistdecimal }{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\itap0\tx431{\s30\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Compiling and installing the module}{\s30\f0\fs28\b\lang1033{\*\listtag1012}\par}
+}\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch In order to compile the module, it is a good practice to create a build folder inside of the main folder of the module. The compiler will generate a lot of files and creating a new folder will keep the rest of the project clean.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 16}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The project t can be compiled using \uc1\u8220\'93cmake\uc1\u8221\'94 and \uc1\u8220\'93make\uc1\u8221\'94 inside of this folder:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 17}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Once it has finished compiling the module, it can be installed using \uc1\u8220\'93make install\uc1\u8221\'94 as an administrator. It will copy the XML and Python files into the proper folder in the system,  usually /usr/local/share/gnuradio/grc/blocks/ for the XML file and /usr/local/lib/python2.7/dist-packages/ for the Python files.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch At this point the module will be available in GNU Radio Companion:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 19}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 20}{\s28\f1\fs24\lang1033{\*\listtag0}\par}}
