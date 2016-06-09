@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<block>
+  <name>my_multiplier_ff</name>
+  <key>multiplier_my_multiplier_ff</key>
+  <category>multiplier</category>
+  <import>import multiplier</import>
+  <make>multiplier.my_multiplier_ff($multiple)</make>
+  <!-- Make one 'param' node for every Parameter you want settable from the GUI.
+       Sub-nodes:
+       * name
+       * key (makes the value accessible as $keyname, e.g. in the make node)
+       * type -->
+  <param>
+    <name>Multiple</name>
+    <key>multiple</key>
+    <type>float</type>
+  </param>
+
+  <sink>
+    <name>in</name>
+    <type>float</type>
+  </sink>
+
+  <source>
+    <name>out</name>
+    <type>float</type>
+  </source>
+
+</block>
