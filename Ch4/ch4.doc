@@ -8,118 +8,118 @@
 \red255\green255\blue255;
 \red255\green255\blue255;}
 {\stylesheet
-{\s6\fi-431\li720\sbasedon28\snext28 Contents 1;}
-{\s7\fi-431\li1440\sbasedon28\snext28 Contents 2;}
-{\s1\fi-431\li720 Arrowhead List;}
-{\s27\fi-431\li720\sbasedon28 Lower Roman List;}
+{\s6\fi-430\li720\sbasedon28\snext28 Contents 1;}
+{\s7\fi-430\li1440\sbasedon28\snext28 Contents 2;}
+{\s1\fi-430\li720 Arrowhead List;}
+{\s27\fi-430\li720\sbasedon28 Lower Roman List;}
 {\s29\tx431\sbasedon20\snext28 Numbered Heading 1;}
 {\s30\tx431\sbasedon21\snext28 Numbered Heading 2;}
-{\s12\fi-431\li720 Diamond List;}
-{\s9\fi-431\li2880\sbasedon28\snext28 Contents 4;}
-{\s8\fi-431\li2160\sbasedon28\snext28 Contents 3;}
+{\s12\fi-430\li720 Diamond List;}
+{\s9\fi-430\li2880\sbasedon28\snext28 Contents 4;}
+{\s8\fi-430\li2160\sbasedon28\snext28 Contents 3;}
 {\s31\tx431\sbasedon22\snext28 Numbered Heading 3;}
-{\s32\fi-431\li720 Numbered List;}
+{\s32\fi-430\li720 Numbered List;}
 {\s15\sbasedon28 Endnote Text;}
 {\*\cs14\fs20\super Endnote Reference;}
-{\s4\fi-431\li720 Bullet List;}
+{\s4\fi-430\li720 Bullet List;}
 {\s5\tx1584\sbasedon29\snext28 Chapter Heading;}
-{\s35\fi-431\li720 Square List;}
-{\s11\fi-431\li720 Dashed List;}
+{\s35\fi-430\li720 Square List;}
+{\s11\fi-430\li720 Dashed List;}
 {\s22\sb440\sa60\f0\fs24\b\sbasedon28\snext28 Heading 3;}
-{\s37\fi-431\li720 Tick List;}
-{\s24\fi-431\li720 Heart List;}
-{\s40\fi-431\li720\sbasedon32 Upper Roman List;}
-{\s39\fi-431\li720\sbasedon32 Upper Case List;}
+{\s37\fi-430\li720 Tick List;}
+{\s24\fi-430\li720 Heart List;}
+{\s40\fi-430\li720\sbasedon32 Upper Roman List;}
+{\s39\fi-430\li720\sbasedon32 Upper Case List;}
 {\s16\fi-288\li288\fs20\sbasedon28 Footnote;}
-{\s19\fi-431\li720 Hand List;}
+{\s19\fi-430\li720 Hand List;}
 {\s18\fs20\sbasedon28 Footnote Text;}
 {\s20\sb440\sa60\f0\fs34\b\sbasedon28\snext28 Heading 1;}
 {\s21\sb440\sa60\f0\fs28\b\sbasedon28\snext28 Heading 2;}
-{\s10\qc\sb240\sa120\f0\fs32\b\sbasedon28\snext28 Contents Header;}
+{\s10\qc\sb240\sa119\f0\fs32\b\sbasedon28\snext28 Contents Header;}
 {\s23\sb440\sa60\f0\fs24\b\sbasedon28\snext28 Heading 4;}
 {\s28\f1\fs24 Normal;}
-{\s26\fi-431\li720\sbasedon32 Lower Case List;}
-{\s2\li1440\ri1440\sa120\sbasedon28 Block Text;}
+{\s26\fi-430\li720\sbasedon32 Lower Case List;}
+{\s2\li1440\ri1440\sa119\sbasedon28 Block Text;}
 {\s33\f2\sbasedon28 Plain Text;}
 {\s34\tx1584\sbasedon29\snext28 Section Heading;}
-{\s25\fi-431\li720 Implies List;}
-{\s3\fi-431\li720 Box List;}
-{\s36\fi-431\li720 Star List;}
+{\s25\fi-430\li720 Implies List;}
+{\s3\fi-430\li720 Box List;}
+{\s36\fi-430\li720 Star List;}
 {\*\cs17\fs20\super Footnote Reference;}
-{\s38\fi-431\li720 Triangle List;}
+{\s38\fi-430\li720 Triangle List;}
 {\s13\fi-288\li288\sbasedon28 Endnote;}}
 {\*\listtable
-{\list\listtemplateid1066\listsimple{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}\listid1000}
-{\list\listtemplateid1067\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}}\listid1014}
-{\list\listtemplateid1068\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}}\listid1022}}
+{\list\listtemplateid1036\listsimple{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}\listid1000}
+{\list\listtemplateid1037\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-430\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}}\listid1014}
+{\list\listtemplateid1038\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-430\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}}\listid1022}}
 {\*\listoverridetable
 {\listoverride\listoverridecount0\listid1000\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\ls1}
-{\listoverride\listoverridecount0\listid1014\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls2}
-{\listoverride\listoverridecount0\listid1022\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls3}}
+{\listoverride\listoverridecount0\listid1014\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-430\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls2}
+{\listoverride\listoverridecount0\listid1022\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-430\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls3}}
 
 \kerning0\cf0\ftnbj\fet2\ftnstart1\ftnnar\aftnnar\ftnstart1\aftnstart1\aenddoc\revprop3{\*\rdf}{\info\uc1}\deftab720\viewkind1\paperw12240\paperh15840\margl1440\margr1440\widowctrl
 \sectd\sbknone\colsx360\pgncont\ltrsect
-\pard\plain\ltrpar\ql\sb440\sa60\s20\itap0{\s20\f0\fs34\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Laboratory 4}{\s20\f0\fs34\b\lang1033{\*\listtag0}\par}
-{\listtext\pard\sb440\sa60 1.	}\pard\plain{\ltrpar\ql\sb440\sa60\s30{\*\abilist\abilistid1000\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Liberation Sans}{\abilistdecimal }{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\itap0\tx431{\s30\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Introduction}{\s30\f0\fs28\b\lang1033{\*\listtag1001}\par}
-}\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The purpose of this exercise is to design a wide band FM receiver using GNU Radio Companion.}{\s28\f1\fs24\lang1033{\*\listtag0} This design requires }{\s28\f1\fs24\lang1033{\*\listtag0}to know the specifications of the transmitter and the receiver. It was developed for a HackRF One because it has a better performance than a DVB-T receiver. Therefore, the main features of this device are:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s28{\*\abilist\abilistid1014\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls2\ilvl0\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch It has an operating frequency between 1 MHz and 6GHz.}{\s28\f1\fs24\lang1033{\*\listtag1015}\par}
-}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s28{\*\abilist\abilistid1014\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls2\ilvl0\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch It accepts up to 20 million samples per second.}{\s28\f1\fs24\lang1033{\*\listtag1017}\par}
-}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s28{\*\abilist\abilistid1014\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls2\ilvl0\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch It could work as a half-duplex transceiver.}{\s28\f1\fs24\lang1033{\*\listtag1018}\par}
-}\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch This exercise complies with the regulations governing transmission of radio signals.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-{\listtext\pard\sb440\sa60 2.	}\pard\plain{\ltrpar\ql\sb440\sa60\s30{\*\abilist\abilistid1000\abilistlevel1\abistartat1{\abifieldfont Liberation Sans}{\abilistdecimal }{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\itap0\tx431{\s30\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Receiver}{\s30\f0\fs28\b\lang1033{\*\listtag1021}\par}
-}\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch This part will cover the design of the receiver. Firstly, it is needed to setup the project. That can be done by editing the properties of the options block. The id needs to be changed and for this exercise the generate options will be set as WX GUI because of the blocks that will be used.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The first element to add will be the \uc1\u8220\'93osmocom Source\uc1\u8221\'94. It will be the HackRF device, and will produce baseband samples by sampling radio-frequency on its antenna at a particular frequency, sample rate and gain. }{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s28{\*\abilist\abilistid1022\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The sample rate and the frequency will depend on variables that could be easily changed during run-time.}{\s28\f1\fs24\lang1033{\*\listtag1023}\par}
-}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s28{\*\abilist\abilistid1022\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The frequency correlation is zero, because the relationship between the received signal and the reception time will be covered later.}{\s28\f1\fs24\lang1033{\*\listtag1024}\par}
-}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s28{\*\abilist\abilistid1022\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The bandwidth will be zero.}{\s28\f1\fs24\lang1033{\*\listtag1025}\par}
-}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s28{\*\abilist\abilistid1022\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The RF  gain usually operates between 50 and 70 Ohms termination in its }{\s28\f1\fs24\lang1033{\*\listtag0}design, while the IF gain usually have between 200 and 600 Ohms. The main difference between those gains is that the IF gain is used typically for crystal, ceramic and mechanical filters. The values can be set as shown in the picture.}{\s28\f1\fs24\lang1033{\*\listtag1026}\par}
-}\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch  figure 1}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch There will be two variables, the sample rate and the frequency, that will need their own block. The frequency will be a WX GUI Slider because in this way it will be easy to modify it using a slide during run-time. }{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 2}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch For the WX GUI Slider, there will be a minimum value and a maximum value to select frequencies and they can use scientific notation. The number of steps defines how many different options there will be between the maximum and the minimum.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 3}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The input signal needs to be multiplied by a cosine to be detected by the WBFM receiver that will be used later. It needs to have the same sample rate than the output.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 4}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch At this point, there should be a filter to reduce the noise and to eliminate any other signals or their harmonics. In this case it will be a low pass filter whose sample rate will be the same as the system and the decimation will be 100 and because of that, the sample rate at this point will be 200 KHz. }{\s28\f1\fs24\lang1033{\*\listtag0}It is useful to remember that the interpolation multiplies the rate while the decimation divides it.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 5}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch There will be also a rational resampler. It will adapt the notion rate of a stream by interpolating and decimating the stream. This is necessary because the HackRF rate is a rational multiple of the audio sink rate. The sample rate of the audio sink is typically 48000 Hz, which is used by }{\s28\f1\fs24\lang1033{\*\listtag0}professional digital video equipment}{\s28\f1\fs24\lang1033{\*\listtag0}. }{\s28\f1\fs24\lang1033{\*\listtag0}If 200 KHz is multiplied by 12 and divided by 5, it will be 480 KHz, which is a multiple of 48 KHz.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 6}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The connection of the blocks should look like this example:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 7}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The next block will be the WBFM Receiver that wilg l have a quadrature rate of 480 KHz according to the previous rate, and the decimation will be 10. This value will divide the sample rate by 10 and it will become 48 KHz, that was the desired sample rate.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 8}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch This system will produce an \uc1\u8220\'93audible\uc1\u8221\'94 output. It will have a sample rate enough to be saved as a file or to be reproduced by an audio card. The first option is done using a wave file sink and the second option is done using a audio sink.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 9}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The path of the wave file sink should be an absolute path, for example: /home/student/my_radio.wav}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Optionally, it would help to add a sink to visualize the frequency received by the HackRF. It would be as easy as adding a WX GUI FFT Sink at the output of the osmocom source:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 10}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The high central peak corresponds to the DC component:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 11}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch It could be removed using a DC Blocker block, but If GNU Radio is running on a Live USB the performance seems to be quite affected by this block.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}}
+\pard\plain\ltrpar\ql\sb440\sa60\s20\sl240\slmult1\itap0{\s20\f0\fs34\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Laboratory 4}{\s20\f0\fs34\b\lang1033{\*\listtag0}\par}
+{\listtext\pard\sb440\sa60 1.	}\pard\plain{\ltrpar\ql\sb440\sa60\s30{\*\abilist\abilistid1000\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Liberation Sans}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\sl240\slmult1\itap0\tx431{\s30\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Introduction}{\s30\f0\fs34\b\lang1033{\*\listtag0}\par}
+}\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The purpose of this exercise is to design a wide band FM receiver using GNU Radio Companion. This design requires to know the specifications of the transmitter and the receiver. It was developed for a HackRF One because it has a better performance than a DVB-T receiver. Therefore, the main features of this device are:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\fi-430\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-430\li720\s28{\*\abilist\abilistid1014\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls2\ilvl0\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch It has an operating frequency between 1 MHz and 6GHz.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-430\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-430\li720\s28{\*\abilist\abilistid1014\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls2\ilvl0\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch It accepts up to 20 million samples per second.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-430\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-430\li720\s28{\*\abilist\abilistid1014\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls2\ilvl0\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch It could work as a half-duplex transceiver.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+}\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch This exercise complies with the regulations governing transmission of radio signals.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\sb440\sa60 2.	}\pard\plain{\ltrpar\ql\sb440\sa60\s30{\*\abilist\abilistid1000\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Liberation Sans}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\sl240\slmult1\itap0\tx431{\s30\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Receiver}{\s30\f1\fs24\lang1033{\*\listtag0}\par}
+}\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch This part will cover the design of the receiver. Firstly, it is needed to setup the project. That can be done by editing the properties of the options block. The id needs to be changed and for this exercise the generate options will be set as WX GUI because of the blocks that will be used.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The first element to add will be the \uc1\u8220\'93osmocom Source\uc1\u8221\'94. It will be the HackRF device, and will produce baseband samples by sampling radio-frequency on its antenna at a particular frequency, sample rate and gain. }{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\fi-430\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-430\li720\s28{\*\abilist\abilistid1022\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The sample rate and the frequency will depend on variables that could be easily changed during run-time.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-430\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-430\li720\s28{\*\abilist\abilistid1022\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The frequency correlation is zero, because the relationship between the received signal and the reception time will be covered later.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-430\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-430\li720\s28{\*\abilist\abilistid1022\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The bandwidth will be zero.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\fi-430\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-430\li720\s28{\*\abilist\abilistid1022\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The RF  gain usually operates between 50 and 70 Ohms termination in its design, while the IF gain usually have between 200 and 600 Ohms. The main difference between those gains is that the IF gain is used typically for crystal, ceramic and mechanical filters. The values can be set as shown in the picture.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+}\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch  figure 1}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch There will be two variables, the sample rate and the frequency, that will need their own block. The frequency will be a WX GUI Slider because in this way it will be easy to modify it using a slide during run-time. }{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 2}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch For the WX GUI Slider, there will be a minimum value and a maximum value to select frequencies and they can use scientific notation. The number of steps defines how many different options there will be between the maximum and the minimum.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 3}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The input signal needs to be multiplied by a cosine }{\s28\f1\fs24\lang1033{\*\listtag0}acting as a local oscillator, as if it were an super-heterodyne receiver. }{\s28\f1\fs24\lang1033{\*\listtag0}\uc0\u-257 The frequency of the local oscillator is set so the desired reception radio frequency }{\s28\f1\fs24\lang1033{\*\listtag0}f}{\s28\f1\fs24\sub\lang1033{\*\listtag0}RF}{\s28\f1\fs24\lang1033{\*\listtag0} mixes to }{\s28\f1\fs24\lang1033{\*\listtag0}f}{\s28\f1\fs24\sub\lang1033{\*\listtag0}IF.. }{\s28\f1\fs24\lang1033{\*\listtag0}The mixer may inadvertently produce additional frequencies and because of that there should be a filter to remove all but the desired signal.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 4}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch At this point, there should be a filter to reduce the noise and to eliminate any other signals or their harmonics. In this case it will be a low pass filter whose sample rate will be the same as the system and the decimation will be 100 and because of that, the sample rate at this point will be 200 KHz. It is useful to remember that the interpolation multiplies the rate while the decimation divides it.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 5}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch There will be also a rational resampler. It will adapt the notion rate of a stream by interpolating and decimating the stream. This is necessary because the HackRF rate is a rational multiple of the audio sink rate. The sample rate of the audio sink is typically 48000 Hz, which is used by professional digital video equipment. If 200 KHz is multiplied by 12 and divided by 5, it will be 480 KHz, which is a multiple of 48 KHz.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 6}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The connection of the blocks should look like this example:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 7}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The next block will be the WBFM Receiver that wilg l have a quadrature rate of 480 KHz according to the previous rate, and the decimation will be 10. This value will divide the sample rate by 10 and it will become 48 KHz, that was the desired sample rate.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 8}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch This system will produce an \uc1\u8220\'93audible\uc1\u8221\'94 output. It will have a sample rate enough to be saved as a file or to be reproduced by an audio card. The first option is done using a wave file sink and the second option is done using a audio sink.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 9}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The path of the wave file sink should be an absolute path, for example: /home/student/my_radio.wav}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Optionally, it would help to add a sink to visualize the frequency received by the HackRF. It would be as easy as adding a WX GUI FFT Sink at the output of the osmocom source:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 10}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The high central peak corresponds to the DC component:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 11}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\sl240\slmult1\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch It could be removed using a DC Blocker block, but If GNU Radio is running on a Live USB the performance seems to be quite affected by this block.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}}

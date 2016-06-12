@@ -49,9 +49,13 @@
 {\s38\fi-431\li720 Triangle List;}
 {\s13\fi-288\li288\sbasedon28 Endnote;}}
 {\*\listtable
-{\list\listtemplateid1004\listsimple{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}\listid1000}}
+{\list\listtemplateid1162\listsimple{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}\listid1000}
+{\list\listtemplateid1163\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}}\listid1019}
+{\list\listtemplateid1164\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}}\listid1113}}
 {\*\listoverridetable
-{\listoverride\listoverridecount0\listid1000\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\ls1}}
+{\listoverride\listoverridecount0\listid1000\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\ls1}
+{\listoverride\listoverridecount0\listid1019\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls2}
+{\listoverride\listoverridecount0\listid1113\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls3}}
 
 \kerning0\cf0\ftnbj\fet2\ftnstart1\ftnnar\aftnnar\ftnstart1\aftnstart1\aenddoc\revprop3{\*\rdf}{\info\uc1}\deftab720\viewkind1\paperw12240\paperh15840\margl1440\margr1440\widowctrl
 \sectd\sbknone\colsx360\pgncont\ltrsect
@@ -65,4 +69,107 @@
 \pard\plain\ltrpar\ql\fi-288\li288\s16\itap0}{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch .}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The transmitter will use the Varitcode encoder to encode a text, extracted from the book Don Kichot z La Manchy, and it will transmit the text using a ASK modulation. The receiver will receive and save it into a text file.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-{\listtext\pard\sb440\sa60 2.	}\pard\plain{\ltrpar\ql\sb440\sa60\s30{\*\abilist\abilistid1000\abilistlevel1\abistartat1{\abifieldfont Liberation Sans}{\abilistdecimal }{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\itap0\tx431{\s30\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch  }{\s30\f0\fs28\b\lang1033{\*\listtag1003}\par}}}
+{\listtext\pard\sb440\sa60 2.	}\pard\plain{\ltrpar\ql\sb440\sa60\s30{\*\abilist\abilistid1000\abilistlevel1\abistartat1{\abifieldfont Liberation Sans}{\abilistdecimal }{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\itap0\tx431{\s30\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch  Installing the Varicode encoder-decoder}{\s30\f0\fs28\b\lang1033{\*\listtag1003}\par}
+}\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Firstly, it is needed to install the Varicode encoder-decoder. As it was shown in a previous laboratory, it needs to be compiled and installed. The command \uc1\u8220\'93cmake\uc1\u8221\'94 will prepare the compilation for the Varicode block:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch After that, the commands \uc1\u8220\'93make\uc1\u8221\'94 and \uc1\u8220\'93make install\uc1\u8221\'94 will compile and install the block into GNU Radio Companion. The installation should be executed as an administrator:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 1}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The block will be available under the Ham category:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 2}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\sb440\sa60 3.	}\pard\plain{\ltrpar\ql\sb440\sa60\s30{\*\abilist\abilistid1000\abilistlevel1\abistartat1{\abifieldfont Liberation Sans}{\abilistdecimal }{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\itap0\tx431{\s30\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Designing the transmitter}{\s30\f0\fs28\b\lang1033{\*\listtag1005}\par}
+}\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The transmitter will use some functions that will require the \uc1\u8220\'93numpy\uc1\u8221\'94 module. In order to import that module it is required to use a Import block\uc1\u8221\'94}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 3}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch There will be tree variables: the sample rate, the center frequency and the gain. The gain will be a slider and this time the center frequency will be a fixed frequency that will not be modified during runtime. That will make harder to find a difference in the center frequency between the transmitter and the receiver:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 4}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch It will be used a new block, \uc1\u8220\'93File Source\uc1\u8221\'94 that will let the system read a binary file. The path of this file must be an absolute path, for example: /home/student/kichot.txt, where kichot.txt will be the fragment extracted from the book \uc1\u8220\'93Don Kichot z La Mancha\uc1\u8221\'94.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 5}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch A block Varicode encoder will convert the ASCII characters into encoded bytes and another block will convert the bytes into symbols:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 6}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch For this modulation, the table of symbols is pretty short: it will be only 0 or 1. }{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 7}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch After that, the sequence will use a special filter. It uses a technique named Frequency Response Masking (FRM) to design a FIR filter. Despite the main advantage of an IIR filter is that the order for the filter is smaller it has some disadvantages: they can become unstable and the coefficient quantification can be more complicated.  }{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The filters designed using the Frequency Response Masking technique are named Interpolated FIR filters (IFIR). The Interpolated FIR filter of this exercise, it will convolve a 80-taps Gaussian filter}{\s28\f1\fs20\super\lang1033{\*\listtag0}\chftn}{\footnote
+\pard\plain\ltrpar\ql\fi-288\li288\s16\itap0{\s16\f1\fs20\lang1033{\*\listtag0}\chftn}{\s16\f1\fs20\lang1033{\*\listtag1}\tab Documentation for the Gaussian filter functon: }{\s16\f1\fs20\lang1033{\*\listtag0}http://jenkins.gnuradio.org/manual/doxygen/classgr_1_1filter_1_1firdes.html#aa851ebbcb1f36c54f1db27149f487ee4}}{\s28\f1\fs24\lang1033{\*\listtag0} with a square wave. The Gaussian filter will have:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s28{\*\abilist\abilistid1019\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls2\ilvl0\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch G}{\s28\f1\fs24\lang1033{\*\listtag0}ain of 1}{\s28\f1\fs24\lang1033{\*\listtag0}.}{\s28\f1\fs24\lang1033{\*\listtag1020}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s28{\*\abilist\abilistid1019\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls2\ilvl0\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch S}{\s28\f1\fs24\lang1033{\*\listtag0}ymbol rate of 20}{\s28\f1\fs24\lang1033{\*\listtag0}.}{\s28\f1\fs24\lang1033{\*\listtag1021}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s28{\*\abilist\abilistid1019\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls2\ilvl0\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch B}{\s28\f1\fs24\lang1033{\*\listtag0}andwidth to bitrate ratio of 1.0. }{\s28\f1\fs24\lang1033{\*\listtag1022}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s28{\*\abilist\abilistid1019\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls2\ilvl0\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch 80 taps.}{\s28\f1\fs24\lang1033{\*\listtag1023}\par}
+}\pard\plain\ltrpar\ql\fi-288\li288\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\fi-288\li288\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 10}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The function to implement this filter would be:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch numpy.convolve(numpy.array(filter.firdes.gaussian(1, 20, 1.0, 4*20)),numpy.array((1,) * 20))}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 8}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch These taps will be multiplied by a constant and there will be a resampler to interpolate the sampling rate by 10:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 9}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Eventually, the signal will be sent to the HackRF device, which will use the sampling rate and the center frequency specified by the variables that were created at the beginning of the design.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 11}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The whole design should look like this one:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 12}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\sb440\sa60 4.	}\pard\plain{\ltrpar\ql\sb440\sa60\s30{\*\abilist\abilistid1000\abilistlevel1\abistartat1{\abifieldfont Liberation Sans}{\abilistdecimal }{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\itap0\tx431{\s30\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Designing the receiver}{\s30\f0\fs28\b\lang1033{\*\listtag1027}\par}
+}\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Initially, there should be 6 variables: the sampling rate, the center frequency,  an offset, a gain, a value por decimation and a value for the correlation. It will be possible to change the gain and the correlation during run-time using a slider graphically:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 20}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The center frequency  will be close to the frequency of the transmitter. It will be 441 MHz with an offset of 50 KHz and it will have a bandwidth of 2 MHz to ensure that the signal is received by the system. Because of that, it will need to be filtered afterwards.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 13}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The input signal needs to be multiplied by a cosine acting as a local oscillator, as if it were an super-heterodyne receiver. \uc0\u-257 The frequency of the local oscillator is set so the desired reception radio frequency f}{\s28\f1\fs24\sub\lang1033{\*\listtag0}RF}{\s28\f1\fs24\lang1033{\*\listtag0} mixes to f}{\s28\f1\fs24\sub\lang1033{\*\listtag0}IF.. }{\s28\f1\fs24\lang1033{\*\listtag0}The mixer may inadvertently produce additional frequencies and because of that there should be a filter to remove all but the desired signal.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 14}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The signal is filtered with a low-pass filter which will have the following properties:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 15}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The following blocks are quite easy to understand: there will be one block to obtain the magnitude for the complex signal and there will be another block that must remove the DC component. }{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 16}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch After that, there should be a clock data recovery (CDR). The purpose is to recover samples from the received signal at the same frequency and phase as the transmitter since there is not an accompanying clock signal.  By default, GNU Radio includes a }{\s28\f1\fs24\lang1033{\*\listtag0}Mueller and M\'fcller clock recovery block that will recover the frequency and the phase and decimate the stream. As }{\s28\f1\fs24\lang1033{\*\listtag0}Toma\uc1\u382\'9e \uc1\u352\'8aolc}{\s28\f1\fs20\super\lang1033{\*\listtag0}\chftn}{\footnote
+\pard\plain\ltrpar\ql\fi-288\li288\s16\itap0{\s16\f1\fs20\lang1033{\*\listtag0}\chftn}{\s16\f1\fs20\lang1033{\*\listtag3}\tab }{\s16\f1\fs24\lang1033{\*\listtag0}Notes on M&M clock recovery: Toma\uc1\u382\'9e \uc1\u352\'8aolc, 2015, https://www.tablix.org/~avian/blog/archives/2015/03/notes_on_m_m_clock_recovery}{\s16\f1\fs20\lang1033{\*\listtag0}/}}{\s28\f1\fs24\lang1033{\*\listtag0} clarifies, the arguments of this block are:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s28{\*\abilist\abilistid1113\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Omega is symbol period in samples per symbol.}{\s28\f1\fs24\lang1033{\*\listtag1114}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s28{\*\abilist\abilistid1113\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The initial value of Mu, which is the }{\s28\f1\fs24\lang1033{\*\listtag0}detected phase shift in samples between the receiver and transmitter, is not relevant in practice.}{\s28\f1\fs24\lang1033{\*\listtag1115}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s28{\*\abilist\abilistid1113\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The relative limit parameter determines how much could change omega and because of that a small value would be desired in this exercise.}{\s28\f1\fs24\lang1033{\*\listtag1118}\par}
+}\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch For this exercise, the values for the }{\s28\f1\fs24\lang1033{\*\listtag0}By default, GNU Radio includes a Mueller and M\'fcller clock recovery block will be:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 17}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Eventually, the stream recovered and decimated will be processed into bytes and the Varicode decoder will recover the ASCII characters that were originally sent:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 18}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The ASCII characters, represented as bytes, can be saved into a file or they can be sent to the standard output:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 19}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The whole design should look similar to this one:}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch figure 21}{\s28\f1\fs24\lang1033{\*\listtag0}\par}}
