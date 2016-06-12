@@ -35,10 +35,10 @@ class qa_my_multiplier (gr_unittest.TestCase):
         src_data = (0, 1, -2, 5.5, -0.5)
         expected_results = (0, 2, -4, 11, -1)
 
-        mult = my_multiplier(2)
+        mult = my_multiplier_ff(2)
         src = blocks.vector_source_f(src_data)
         snk = blocks.vector_sink_f()
-        
+
         self.tb.connect(src, mult)
         self.tb.connect(mult, snk)
         self.tb.run ()

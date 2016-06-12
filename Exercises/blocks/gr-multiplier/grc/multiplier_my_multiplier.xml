@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <block>
   <name>my_multiplier</name>
-  <key>multiplier_my_multiplier</key>
+  <key>multiplier_my_multiplier_ff</key>
   <category>multiplier</category>
   <import>import multiplier</import>
-  <make>multiplier.my_multiplier($multiple)</make>
+  <make>multiplier.my_multiplier_ff($multiple)</make>
   <!-- Make one 'param' node for every Parameter you want settable from the GUI.
        Sub-nodes:
        * name

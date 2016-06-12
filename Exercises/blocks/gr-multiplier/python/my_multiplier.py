@@ -22,14 +22,14 @@
 import numpy
 from gnuradio import gr
 
-class my_multiplier(gr.sync_block):
+class my_multiplier_ff(gr.sync_block):
     """
     docstring for block my_multiplier
     """
     def __init__(self, multiple):
         self.multiple = multiple
         gr.sync_block.__init__(self,
-            name="my_multiplier",
+            name="my_multiplier_ff",
             in_sig=[numpy.float32],
             out_sig=[numpy.float32])
 
