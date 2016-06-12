@@ -49,7 +49,7 @@
 {\s38\fi-431\li720 Triangle List;}
 {\s13\fi-288\li288\sbasedon28 Endnote;}}
 {\*\listtable
-{\list\listtemplateid1002\listsimple{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}\listid1000}}
+{\list\listtemplateid1004\listsimple{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}\listid1000}}
 {\*\listoverridetable
 {\listoverride\listoverridecount0\listid1000\levelnfc0\levelstartat1\levelspace0\levelfollow0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\ls1}}
 
@@ -58,6 +58,11 @@
 \pard\plain\ltrpar\ql\sb440\sa60\s20\itap0{\s20\f0\fs34\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Exercise 5}{\s20\f0\fs34\b\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
 {\listtext\pard\sb440\sa60 1.	}\pard\plain{\ltrpar\ql\sb440\sa60\s30{\*\abilist\abilistid1000\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Liberation Sans}{\abilistdecimal }{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\itap0\tx431{\s30\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Introduction}{\s30\f0\fs28\b\lang1033{\*\listtag1001}\par}
-}\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch This exercise wiill show how to work with digital transmissions. The design will use a FSK modulation. }{\s28\f1\fs24\lang1033{\*\listtag0}FSK is a frequency modulation scheme in which digital information is transmitted through discrete frequency changes of a carrier signal.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+}\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch This exercise wiill show how to work with digital transmissions. The design will use a ASK modulation. }{\s28\f1\fs24\lang1033{\*\listtag0}ASK  is a form of amplitude modulation that represents digital data as variations in the amplitude of a carrier wave.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch This example will use a Varicode encoder and decoder. It is an optimal prefix code that supports all ASCII characters but those characters which are the most used in English has shorter codes. makes the algorithm quite useful to shrink and transmit text. The Varicode encoder and decoder used in this example was written by Clayton Smith and released under the GNU General Public License version 3}{\s28\f1\fs20\super\lang1033{\*\listtag0}\chftn}{\footnote
+\pard\plain\ltrpar\ql\fi-288\li288\s16\itap0{\s16\f1\fs20\lang1033{\*\listtag0}\chftn}{\s16\f1\fs20\lang1033{\*\listtag0}\tab GR-Ham, Clayton Smith, 2014, }{\s16\f1\fs20\lang1033{\*\listtag0}https://github.com/arClayton Smithgilo/gr-ham}{\s16\f1\fs20\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\fi-288\li288\s16\itap0}{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch .}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f1\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The transmitter will use the Varitcode encoder to encode a text, extracted from the book Don Kichot z La Manchy, and it will transmit the text using a ASK modulation. The receiver will receive and save it into a text file.}{\s28\f1\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\sb440\sa60 2.	}\pard\plain{\ltrpar\ql\sb440\sa60\s30{\*\abilist\abilistid1000\abilistlevel1\abistartat1{\abifieldfont Liberation Sans}{\abilistdecimal }{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\ls1\ilvl0\itap0\tx431{\s30\f0\fs28\b\lang1033{\*\listtag0}\abinodiroverride\ltrch  }{\s30\f0\fs28\b\lang1033{\*\listtag1003}\par}}}
