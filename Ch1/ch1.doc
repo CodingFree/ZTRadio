@@ -1,17 +1,17 @@
-{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi31507\deflang3082\deflangfe3082\themelang3082\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fbidi \fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
-{\f2\fbidi \fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f2\fbidi \fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f40\fbidi \fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Liberation Sans;}
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi0\deflang3082\deflangfe3082\themelang3082\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fbidi \fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fbidi \fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\fbidi \froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fbidi \fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}
+{\f10\fbidi \fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}{\f38\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0302020204030204}Calibri Light;}{\f40\fbidi \fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Liberation Sans;}
 {\flomajor\f31500\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbmajor\f31501\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
 {\fhimajor\f31502\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0302020204030204}Calibri Light;}{\fbimajor\f31503\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
 {\flominor\f31504\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbminor\f31505\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
-{\fhiminor\f31506\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}{\fbiminor\f31507\fbidi \fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}{\f400\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
-{\f401\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\f403\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f404\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f405\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
-{\f406\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f407\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f408\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f410\fbidi \fswiss\fcharset238\fprq2 Arial CE;}
-{\f411\fbidi \fswiss\fcharset204\fprq2 Arial Cyr;}{\f413\fbidi \fswiss\fcharset161\fprq2 Arial Greek;}{\f414\fbidi \fswiss\fcharset162\fprq2 Arial Tur;}{\f415\fbidi \fswiss\fcharset177\fprq2 Arial (Hebrew);}
-{\f416\fbidi \fswiss\fcharset178\fprq2 Arial (Arabic);}{\f417\fbidi \fswiss\fcharset186\fprq2 Arial Baltic;}{\f418\fbidi \fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\f420\fbidi \fmodern\fcharset238\fprq1 Courier New CE;}
-{\f421\fbidi \fmodern\fcharset204\fprq1 Courier New Cyr;}{\f423\fbidi \fmodern\fcharset161\fprq1 Courier New Greek;}{\f424\fbidi \fmodern\fcharset162\fprq1 Courier New Tur;}{\f425\fbidi \fmodern\fcharset177\fprq1 Courier New (Hebrew);}
-{\f426\fbidi \fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f427\fbidi \fmodern\fcharset186\fprq1 Courier New Baltic;}{\f428\fbidi \fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f420\fbidi \fmodern\fcharset238\fprq1 Courier New CE;}
-{\f421\fbidi \fmodern\fcharset204\fprq1 Courier New Cyr;}{\f423\fbidi \fmodern\fcharset161\fprq1 Courier New Greek;}{\f424\fbidi \fmodern\fcharset162\fprq1 Courier New Tur;}{\f425\fbidi \fmodern\fcharset177\fprq1 Courier New (Hebrew);}
-{\f426\fbidi \fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f427\fbidi \fmodern\fcharset186\fprq1 Courier New Baltic;}{\f428\fbidi \fmodern\fcharset163\fprq1 Courier New (Vietnamese);}
+{\fhiminor\f31506\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}{\fbiminor\f31507\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f415\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\f416\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\f418\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f419\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f420\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f421\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f422\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f423\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f425\fbidi \fswiss\fcharset238\fprq2 Arial CE;}
+{\f426\fbidi \fswiss\fcharset204\fprq2 Arial Cyr;}{\f428\fbidi \fswiss\fcharset161\fprq2 Arial Greek;}{\f429\fbidi \fswiss\fcharset162\fprq2 Arial Tur;}{\f430\fbidi \fswiss\fcharset177\fprq2 Arial (Hebrew);}
+{\f431\fbidi \fswiss\fcharset178\fprq2 Arial (Arabic);}{\f432\fbidi \fswiss\fcharset186\fprq2 Arial Baltic;}{\f433\fbidi \fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\f435\fbidi \fmodern\fcharset238\fprq1 Courier New CE;}
+{\f436\fbidi \fmodern\fcharset204\fprq1 Courier New Cyr;}{\f438\fbidi \fmodern\fcharset161\fprq1 Courier New Greek;}{\f439\fbidi \fmodern\fcharset162\fprq1 Courier New Tur;}{\f440\fbidi \fmodern\fcharset177\fprq1 Courier New (Hebrew);}
+{\f441\fbidi \fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f442\fbidi \fmodern\fcharset186\fprq1 Courier New Baltic;}{\f443\fbidi \fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f795\fbidi \fswiss\fcharset238\fprq2 Calibri Light CE;}
+{\f796\fbidi \fswiss\fcharset204\fprq2 Calibri Light Cyr;}{\f798\fbidi \fswiss\fcharset161\fprq2 Calibri Light Greek;}{\f799\fbidi \fswiss\fcharset162\fprq2 Calibri Light Tur;}{\f802\fbidi \fswiss\fcharset186\fprq2 Calibri Light Baltic;}
 {\flomajor\f31508\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flomajor\f31509\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\flomajor\f31511\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
 {\flomajor\f31512\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flomajor\f31513\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flomajor\f31514\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
 {\flomajor\f31515\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flomajor\f31516\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbmajor\f31518\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
@@ -19,199 +19,279 @@
 {\fdbmajor\f31523\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbmajor\f31524\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fdbmajor\f31525\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
 {\fdbmajor\f31526\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhimajor\f31528\fbidi \fswiss\fcharset238\fprq2 Calibri Light CE;}{\fhimajor\f31529\fbidi \fswiss\fcharset204\fprq2 Calibri Light Cyr;}
 {\fhimajor\f31531\fbidi \fswiss\fcharset161\fprq2 Calibri Light Greek;}{\fhimajor\f31532\fbidi \fswiss\fcharset162\fprq2 Calibri Light Tur;}{\fhimajor\f31535\fbidi \fswiss\fcharset186\fprq2 Calibri Light Baltic;}
-{\fhimajor\f31536\fbidi \fswiss\fcharset163\fprq2 Calibri Light (Vietnamese);}{\fbimajor\f31538\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fbimajor\f31539\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
-{\fbimajor\f31541\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbimajor\f31542\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbimajor\f31543\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
-{\fbimajor\f31544\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbimajor\f31545\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbimajor\f31546\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
-{\flominor\f31548\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flominor\f31549\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\flominor\f31551\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
-{\flominor\f31552\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flominor\f31553\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flominor\f31554\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
-{\flominor\f31555\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flominor\f31556\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbminor\f31558\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
-{\fdbminor\f31559\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fdbminor\f31561\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fdbminor\f31562\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
-{\fdbminor\f31563\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbminor\f31564\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fdbminor\f31565\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
-{\fdbminor\f31566\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhiminor\f31568\fbidi \fswiss\fcharset238\fprq2 Calibri CE;}{\fhiminor\f31569\fbidi \fswiss\fcharset204\fprq2 Calibri Cyr;}
-{\fhiminor\f31571\fbidi \fswiss\fcharset161\fprq2 Calibri Greek;}{\fhiminor\f31572\fbidi \fswiss\fcharset162\fprq2 Calibri Tur;}{\fhiminor\f31575\fbidi \fswiss\fcharset186\fprq2 Calibri Baltic;}
-{\fhiminor\f31576\fbidi \fswiss\fcharset163\fprq2 Calibri (Vietnamese);}{\fbiminor\f31578\fbidi \fswiss\fcharset238\fprq2 Arial CE;}{\fbiminor\f31579\fbidi \fswiss\fcharset204\fprq2 Arial Cyr;}
-{\fbiminor\f31581\fbidi \fswiss\fcharset161\fprq2 Arial Greek;}{\fbiminor\f31582\fbidi \fswiss\fcharset162\fprq2 Arial Tur;}{\fbiminor\f31583\fbidi \fswiss\fcharset177\fprq2 Arial (Hebrew);}
-{\fbiminor\f31584\fbidi \fswiss\fcharset178\fprq2 Arial (Arabic);}{\fbiminor\f31585\fbidi \fswiss\fcharset186\fprq2 Arial Baltic;}{\fbiminor\f31586\fbidi \fswiss\fcharset163\fprq2 Arial (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;
-\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;
-\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\*\defchp \fs22\loch\af31506\hich\af31506\dbch\af31505 }{\*\defpap \ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }
-\noqfpromote {\stylesheet{\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f0\hich\af0\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext0 \sqformat Normal;}{
-\s1\ql \li0\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\outlinelevel0\rin0\lin0\itap0 \rtlch\fcs1 \ab\af40\afs34\alang1025 \ltrch\fcs0 \b\fs34\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 
-\sbasedon0 \snext0 \slink42 \sqformat heading 1;}{\s2\ql \li0\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \ab\af40\afs28\alang1025 \ltrch\fcs0 
-\b\fs28\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext0 \slink43 \sqformat heading 2;}{\s3\ql \li0\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\outlinelevel2\rin0\lin0\itap0 \rtlch\fcs1 
-\ab\af40\afs24\alang1025 \ltrch\fcs0 \b\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext0 \slink33 \sqformat heading 3;}{
-\s4\ql \li0\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\outlinelevel3\rin0\lin0\itap0 \rtlch\fcs1 \ab\af40\afs24\alang1025 \ltrch\fcs0 \b\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 
-\sbasedon0 \snext0 \slink45 \sqformat heading 4;}{\*\cs10 \additive \ssemihidden \sunhideused \spriority1 Default Paragraph Font;}{\*
+{\fbimajor\f31538\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fbimajor\f31539\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fbimajor\f31541\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\fbimajor\f31542\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbimajor\f31543\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fbimajor\f31544\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\fbimajor\f31545\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbimajor\f31546\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\flominor\f31548\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\flominor\f31549\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\flominor\f31551\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\flominor\f31552\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\flominor\f31553\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flominor\f31554\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\flominor\f31555\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\flominor\f31556\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbminor\f31558\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fdbminor\f31559\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\fdbminor\f31561\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fdbminor\f31562\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fdbminor\f31563\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\fdbminor\f31564\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fdbminor\f31565\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fdbminor\f31566\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\fhiminor\f31568\fbidi \fswiss\fcharset238\fprq2 Calibri CE;}{\fhiminor\f31569\fbidi \fswiss\fcharset204\fprq2 Calibri Cyr;}{\fhiminor\f31571\fbidi \fswiss\fcharset161\fprq2 Calibri Greek;}{\fhiminor\f31572\fbidi \fswiss\fcharset162\fprq2 Calibri Tur;}
+{\fhiminor\f31575\fbidi \fswiss\fcharset186\fprq2 Calibri Baltic;}{\fhiminor\f31576\fbidi \fswiss\fcharset163\fprq2 Calibri (Vietnamese);}{\fbiminor\f31578\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\fbiminor\f31579\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fbiminor\f31581\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbiminor\f31582\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\fbiminor\f31583\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fbiminor\f31584\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbiminor\f31585\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\fbiminor\f31586\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;
+\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\*\defchp 
+\fs22\loch\af31506\hich\af31506\dbch\af31505 }{\*\defpap \ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 
+\rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f0\hich\af0\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext0 \sqformat \spriority0 Normal;}{
+\s1\ql \fi-432\li432\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\ls2\outlinelevel0\rin0\lin432\itap0 \rtlch\fcs1 \ab\af40\afs34\alang1025 \ltrch\fcs0 \b\fs34\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 
+\sbasedon0 \snext0 \slink15 \sqformat heading 1;}{\s2\ql \fi-576\li576\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\ls2\ilvl1\outlinelevel1\rin0\lin576\itap0 \rtlch\fcs1 \ab\af40\afs28\alang1025 \ltrch\fcs0 
+\b\fs28\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext0 \slink16 \sqformat heading 2;}{\s3\ql \fi-720\li720\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\ls2\ilvl2\outlinelevel2\rin0\lin720\itap0 
+\rtlch\fcs1 \ab\af40\afs24\alang1025 \ltrch\fcs0 \b\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext0 \slink17 \sqformat heading 3;}{
+\s4\ql \fi-864\li864\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\ls2\ilvl3\outlinelevel3\rin0\lin864\itap0 \rtlch\fcs1 \ab\af40\afs24\alang1025 \ltrch\fcs0 \b\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 
+\sbasedon0 \snext0 \slink18 \sqformat heading 4;}{\s5\ql \fi-1008\li1008\ri0\sb240\sa60\nowidctlpar\wrapdefault\faauto\ls2\ilvl4\outlinelevel4\rin0\lin1008\itap0 \rtlch\fcs1 \ab\ai\af1\afs26\alang1025 \ltrch\fcs0 
+\b\i\fs26\lang3082\langfe3082\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext0 \slink19 \ssemihidden \sunhideused \sqformat \spriority9 \styrsid6365535 heading 5;}{
+\s6\ql \fi-1152\li1152\ri0\sb240\sa60\nowidctlpar\wrapdefault\faauto\ls2\ilvl5\outlinelevel5\rin0\lin1152\itap0 \rtlch\fcs1 \ab\af1\afs22\alang1025 \ltrch\fcs0 
+\b\fs22\lang3082\langfe3082\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext0 \slink20 \ssemihidden \sunhideused \sqformat \spriority9 \styrsid6365535 heading 6;}{
+\s7\ql \fi-1296\li1296\ri0\sb240\sa60\nowidctlpar\wrapdefault\faauto\ls2\ilvl6\outlinelevel6\rin0\lin1296\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp3082\langfenp3082 
+\sbasedon0 \snext0 \slink21 \ssemihidden \sunhideused \sqformat \spriority9 \styrsid6365535 heading 7;}{\s8\ql \fi-1440\li1440\ri0\sb240\sa60\nowidctlpar\wrapdefault\faauto\ls2\ilvl7\outlinelevel7\rin0\lin1440\itap0 \rtlch\fcs1 \ai\af1\afs24\alang1025 
+\ltrch\fcs0 \i\fs24\lang3082\langfe3082\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext0 \slink22 \ssemihidden \sunhideused \sqformat \spriority9 \styrsid6365535 heading 8;}{
+\s9\ql \fi-1584\li1584\ri0\sb240\sa60\nowidctlpar\wrapdefault\faauto\ls2\ilvl8\outlinelevel8\rin0\lin1584\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang3082\langfe3082\loch\f31502\hich\af31502\dbch\af31501\cgrid\langnp3082\langfenp3082 
+\sbasedon0 \snext0 \slink23 \ssemihidden \sunhideused \sqformat \spriority9 \styrsid6365535 heading 9;}{\*\cs10 \additive \ssemihidden \sunhideused \spriority1 Default Paragraph Font;}{\*
 \ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\sa160\sl259\slmult1
-\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs22\alang1025 \ltrch\fcs0 \fs22\lang3082\langfe3082\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext11 \ssemihidden \sunhideused 
-Normal Table;}{\s15\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 
-\sbasedon0 \snext0 \spriority0 Contents 1;}{\s16\ql \fi-431\li1440\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin1440\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
-\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext0 Contents 2;}{\s17\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
-\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext17 Arrowhead List;}{\s18\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
-\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext18 Lower Roman List;}{\s19\ql \li0\ri0\nowidctlpar\tx431\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
-\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon1 \snext0 Numbered Heading 1;}{\s20\ql \li0\ri0\nowidctlpar\tx431\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
-\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon2 \snext0 Numbered Heading 2;}{\s21\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
-\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext21 Diamond List;}{\s22\ql \fi-431\li2880\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin2880\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
-\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext0 Contents 4;}{\s23\ql \fi-431\li2160\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin2160\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
-\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext0 Contents 3;}{\s24\ql \li0\ri0\nowidctlpar\tx431\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
-\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon3 \snext0 Numbered Heading 3;}{\s25\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
-\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext25 Numbered List;}{\s26\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
-\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext26 \slink27 endnote text;}{\*\cs27 \additive \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20 \sbasedon10 \slink26 \slocked \ssemihidden Endnote Text Char;}
-{\*\cs28 \additive \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\super \sbasedon10 endnote reference;}{\s29\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
-\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext29 Bullet List;}{\s30\ql \li0\ri0\nowidctlpar\tx1584\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
-\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon19 \snext0 Chapter Heading;}{\s31\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
-\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext31 Square List;}{\s32\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
-\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext32 Dashed List;}{\*\cs33 \additive \rtlch\fcs1 \ab\af31503\afs26 \ltrch\fcs0 \b\fs26\loch\f31502\hich\af31502\dbch\af31501 
-\sbasedon10 \slink3 \slocked \ssemihidden \spriority9 Heading 3 Char;}{\s34\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
-\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext34 Tick List;}{\s35\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
-\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext35 Heart List;}{\s36\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
-\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon25 \snext36 Upper Roman List;}{\s37\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
-\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon25 \snext37 Upper Case List;}{\s38\ql \fi-288\li288\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin288\itap0 \rtlch\fcs1 \af31507\afs20\alang1025 \ltrch\fcs0 
-\fs20\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext38 Footnote;}{\s39\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
-\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext39 Hand List;}{\s40\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs20\alang1025 \ltrch\fcs0 
-\fs20\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext40 \slink41 footnote text;}{\*\cs41 \additive \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20 \sbasedon10 \slink40 \slocked \ssemihidden Footnote Text Char;}
-{\*\cs42 \additive \rtlch\fcs1 \ab\af31503\afs32 \ltrch\fcs0 \b\fs32\kerning32\loch\f31502\hich\af31502\dbch\af31501 \sbasedon10 \slink1 \slocked \spriority9 Heading 1 Char;}{\*\cs43 \additive \rtlch\fcs1 \ab\ai\af31503\afs28 \ltrch\fcs0 
-\b\i\fs28\loch\f31502\hich\af31502\dbch\af31501 \sbasedon10 \slink2 \slocked \ssemihidden \spriority9 Heading 2 Char;}{\s44\qc \li0\ri0\sb240\sa120\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \ab\af40\afs32\alang1025 \ltrch\fcs0 
-\b\fs32\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext0 Contents Header;}{\*\cs45 \additive \rtlch\fcs1 \ab\af0\afs28 \ltrch\fcs0 \b\fs28 \sbasedon10 \slink4 \slocked \ssemihidden \spriority9 
-Heading 4 Char;}{\s46\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon25 \snext46 
-Lower Case List;}{\s47\ql \li1440\ri1440\sa120\nowidctlpar\wrapdefault\faauto\rin1440\lin1440\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 
-\sbasedon0 \snext47 Block Text;}{\s48\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af2\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f2\hich\af2\dbch\af31505\cgrid\langnp3082\langfenp3082 
-\sbasedon0 \snext48 \slink49 Plain Text;}{\*\cs49 \additive \rtlch\fcs1 \af2\afs20 \ltrch\fcs0 \f2\fs20 \sbasedon10 \slink48 \slocked \ssemihidden Plain Text Char;}{\s50\ql \li0\ri0\nowidctlpar\tx1584\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 
-\af31507\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon19 \snext0 Section Heading;}{\s51\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 
-\af31507\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext51 Implies List;}{\s52\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 
-\af31507\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext52 Box List;}{\s53\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 
-\af31507\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext53 Star List;}{\*\cs54 \additive \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\super \sbasedon10 footnote reference;}{
-\s55\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext55 Triangle List;}{
-\s56\ql \fi-288\li288\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin288\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext56 Endnote;}}{\*\listtable
-{\list\listtemplateid1013\listsimple{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 }{\listname ;}\listid1000}}
-{\*\listoverridetable{\listoverride\listid1000\listoverridecount0\ls1}}{\*\pgptbl {\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}}{\*\rsidtbl \rsid2709175\rsid3093593\rsid13388416\rsid14175042\rsid16669075}{\mmathPr\mmathFont34
-\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\operator Adrian C.}{\creatim\yr2016\mo6\dy19\hr11\min12}{\revtim\yr2016\mo6\dy19\hr12\min27}{\version4}{\edmins75}{\nofpages3}{\nofwords683}
-{\nofchars3758}{\nofcharsws4433}{\vern121}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw12240\paperh15840\margl1440\margr1440\margt1417\margb1417\gutter0\ltrsect 
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang3082\langfe3082\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext11 \ssemihidden \sunhideused 
+Normal Table;}{\*\cs15 \additive \rtlch\fcs1 \ab\af0\afs32 \ltrch\fcs0 \b\fs32\kerning32\loch\f31502\hich\af31502\dbch\af31501 \sbasedon10 \slink1 \slocked \spriority9 Heading 1 Char;}{\*\cs16 \additive \rtlch\fcs1 \ab\ai\af0\afs28 \ltrch\fcs0 
+\b\i\fs28\loch\f31502\hich\af31502\dbch\af31501 \sbasedon10 \slink2 \slocked Heading 2 Char;}{\*\cs17 \additive \rtlch\fcs1 \ab\af0\afs26 \ltrch\fcs0 \b\fs26\loch\f31502\hich\af31502\dbch\af31501 \sbasedon10 \slink3 \slocked \ssemihidden \spriority9 
+Heading 3 Char;}{\*\cs18 \additive \rtlch\fcs1 \ab\af0\afs28 \ltrch\fcs0 \b\fs28 \sbasedon10 \slink4 \slocked \ssemihidden \spriority9 Heading 4 Char;}{\*\cs19 \additive \rtlch\fcs1 \ab\ai\af0\afs26 \ltrch\fcs0 \b\i\fs26 
+\sbasedon10 \slink5 \slocked \ssemihidden \spriority9 \styrsid6365535 Heading 5 Char;}{\*\cs20 \additive \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b \sbasedon10 \slink6 \slocked \ssemihidden \spriority9 \styrsid6365535 Heading 6 Char;}{\*\cs21 \additive 
+\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24 \sbasedon10 \slink7 \slocked \ssemihidden \spriority9 \styrsid6365535 Heading 7 Char;}{\*\cs22 \additive \rtlch\fcs1 \ai\af0\afs24 \ltrch\fcs0 \i\fs24 
+\sbasedon10 \slink8 \slocked \ssemihidden \spriority9 \styrsid6365535 Heading 8 Char;}{\*\cs23 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \loch\f31502\hich\af31502\dbch\af31501 \sbasedon10 \slink9 \slocked \ssemihidden \spriority9 \styrsid6365535 
+Heading 9 Char;}{\s24\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 
+\sbasedon0 \snext0 \spriority0 Contents 1;}{\s25\ql \fi-431\li1440\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin1440\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 
+\sbasedon0 \snext0 Contents 2;}{\s26\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext26 
+Arrowhead List;}{\s27\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext27 
+Lower Roman List;}{\s28\ql \fi-432\li432\ri0\nowidctlpar\tx431\wrapdefault\faauto\ls2\rin0\lin432\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 
+\sbasedon1 \snext0 Numbered Heading 1;}{\s29\ql \fi-576\li576\ri0\nowidctlpar\tx431\wrapdefault\faauto\ls2\ilvl1\rin0\lin576\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon2 \snext0 Numbered Heading 2;}{\s30\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext30 Diamond List;}{\s31\ql \fi-431\li2880\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin2880\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext0 Contents 4;}{\s32\ql \fi-431\li2160\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin2160\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext0 Contents 3;}{\s33\ql \fi-720\li720\ri0\nowidctlpar\tx431\wrapdefault\faauto\ls2\ilvl2\rin0\lin720\itap0 \rtlch\fcs1 \af1\afs24\alang1025 
+\ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon3 \snext0 Numbered Heading 3;}{\s34\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af1\afs24\alang1025 
+\ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext34 Numbered List;}{\s35\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext35 \slink36 endnote text;}{\*\cs36 \additive \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20 \sbasedon10 \slink35 \slocked \ssemihidden Endnote Text Char;}
+{\*\cs37 \additive \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\super \sbasedon10 endnote reference;}{\s38\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext38 Bullet List;}{\s39\ql \fi-432\li432\ri0\nowidctlpar\tx1584\wrapdefault\faauto\ls2\rin0\lin432\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon28 \snext0 Chapter Heading;}{\s40\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext40 Square List;}{\s41\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext41 Dashed List;}{\s42\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext42 Tick List;}{\s43\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext43 Heart List;}{\s44\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon34 \snext44 Upper Roman List;}{\s45\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon34 \snext45 Upper Case List;}{\s46\ql \fi-288\li288\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin288\itap0 \rtlch\fcs1 \af1\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext46 Footnote;}{\s47\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext47 Hand List;}{\s48\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af1\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext48 \slink49 footnote text;}{\*\cs49 \additive \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20 \sbasedon10 \slink48 \slocked \ssemihidden Footnote Text Char;}
+{\s50\qc \li0\ri0\sb240\sa120\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \ab\af40\afs32\alang1025 \ltrch\fcs0 \b\fs32\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext0 Contents Header;}{
+\s51\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon34 \snext51 Lower Case List;}{
+\s52\ql \li1440\ri1440\sa120\nowidctlpar\wrapdefault\faauto\rin1440\lin1440\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext52 Block Text;}{
+\s53\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af2\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f2\hich\af2\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext53 \slink54 Plain Text;}{\*\cs54 \additive 
+\rtlch\fcs1 \af2\afs20 \ltrch\fcs0 \f2\fs20 \sbasedon10 \slink53 \slocked \ssemihidden Plain Text Char;}{\s55\ql \fi-432\li432\ri0\nowidctlpar\tx1584\wrapdefault\faauto\ls2\rin0\lin432\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon28 \snext0 Section Heading;}{\s56\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext56 Implies List;}{\s57\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext57 Box List;}{\s58\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext58 Star List;}{\*\cs59 \additive \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\super \sbasedon10 footnote reference;}{
+\s60\ql \fi-431\li720\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \snext60 Triangle List;}{
+\s61\ql \fi-288\li288\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin288\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\f40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext61 Endnote;}{\*\cs62 
+\additive \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b \sbasedon10 \sqformat \spriority22 \styrsid6365535 Strong;}{\s63\ql \li708\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin708\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang3082\langfe3082\loch\f0\hich\af0\dbch\af31505\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext63 \sqformat \spriority34 \styrsid16736139 List Paragraph;}{\s64\qc \li0\ri0\sb240\sa60\nowidctlpar\wrapdefault\faauto\outlinelevel0\rin0\lin0\itap0 
+\rtlch\fcs1 \ab\af0\afs32\alang1025 \ltrch\fcs0 \b\fs32\lang3082\langfe3082\kerning28\loch\f31502\hich\af31502\dbch\af31501\cgrid\langnp3082\langfenp3082 \sbasedon0 \snext0 \slink65 \sqformat \spriority10 \styrsid16736139 Title;}{\*\cs65 \additive 
+\rtlch\fcs1 \ab\af0\afs32 \ltrch\fcs0 \b\fs32\kerning28\loch\f31502\hich\af31502\dbch\af31501 \sbasedon10 \slink64 \slocked \spriority10 \styrsid16736139 Title Char;}}{\*\listtable{\list\listtemplateid-634856700\listsimple{\listlevel\levelnfc0\levelnfcn0
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0 }{\listname ;}\listid1000}{\list\listtemplateid-434574338\listhybrid{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid201981953\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid201981955\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0
+{\leveltext\leveltemplateid201981957\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext
+\leveltemplateid201981953\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid201981955
+\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid201981957\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fbias0 \fi-360\li4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid201981953\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 
+\fi-360\li5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid201981955\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\lin5760 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid201981957\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\lin6480 }{\listname ;}\listid1315521873}
+{\list\listtemplateid1007961822{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'00;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \s1\fi-432\li432\lin432 }{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'03\'00.\'01;}{\levelnumbers\'01\'03;}\rtlch\fcs1 \ab0\ai0\af0\afs24 \ltrch\fcs0 
+\b0\i0\strike0\outl0\shad0\embo0\impr0\scaps0\caps0\v0\fs24\ulnone\expnd0\expndtw0\cf0\up0\nosupersub\kerning0\animtext0\loch\af0\hich\af0\dbch\af31505\charscalex100\striked0\ulc0 \s2\fi-576\li576\lin576 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'05\'00.\'01.\'02;}{\levelnumbers\'01\'03\'05;}\rtlch\fcs1 \af0 \ltrch\fcs0 \s3\fi-720\li720\lin720 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\'07\'00.\'01.\'02.\'03;}{\levelnumbers\'01\'03\'05\'07;}\rtlch\fcs1 \af0 \ltrch\fcs0 \s4\fi-864\li864\lin864 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'09\'00.\'01.\'02.\'03.\'04;}{\levelnumbers\'01\'03\'05\'07\'09;}\rtlch\fcs1 \af0 \ltrch\fcs0 \s5\fi-1008\li1008\lin1008 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'0b\'00.\'01.\'02.\'03.\'04.\'05;}{\levelnumbers\'01\'03\'05\'07\'09\'0b;}\rtlch\fcs1 \af0 \ltrch\fcs0 \s6\fi-1152\li1152\lin1152 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'0d\'00.\'01.\'02.\'03.\'04.\'05.\'06;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d;}\rtlch\fcs1 \af0 \ltrch\fcs0 \s7\fi-1296\li1296\lin1296 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'0f\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f;}\rtlch\fcs1 \af0 \ltrch\fcs0 \s8\fi-1440\li1440\lin1440 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'11\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.\'08;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f\'11;}\rtlch\fcs1 \af0 \ltrch\fcs0 \s9\fi-1584\li1584\lin1584 }{\listname ;}\listid1437208859}}{\*\listoverridetable{\listoverride\listid1000
+\listoverridecount0\ls1}{\listoverride\listid1437208859\listoverridecount0\ls2}{\listoverride\listid1315521873\listoverridecount0\ls3}}{\*\pgptbl {\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}}{\*\rsidtbl \rsid2709175\rsid3093593
+\rsid4406872\rsid5138765\rsid6365535\rsid6904291\rsid10110974\rsid10752332\rsid13388416\rsid13857270\rsid14175042\rsid16519276\rsid16669075\rsid16736139}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1
+\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\operator Adrian C.}{\creatim\yr2016\mo6\dy19\hr11\min12}{\revtim\yr2016\mo6\dy19\hr13\min11}{\version11}{\edmins119}{\nofpages4}{\nofwords744}{\nofchars4092}{\nofcharsws4827}{\vern121}}{\*\xmlnstbl {\xmlns1 http
+://schemas.microsoft.com/office/word/2003/wordml}}\paperw12240\paperh15840\margl1440\margr1440\margt1417\margb1417\gutter0\ltrsect 
 \widowctrl\ftnbj\aenddoc\hyphhotz425\trackmoves0\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\horzdoc\dghspace120\dgvspace120
 \dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\rsidroot16669075 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0\ltrpar \sectd \ltrsect\sbknone\linex0\colsx360\sectdefaultcl\sftnbj {\*\pnseclvl1
 \pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta )}}
 {\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
 \pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 
-\ltrch\fcs0 \fs24\lang3082\langfe3082\loch\af0\hich\af0\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid14684195 
-\par }\pard\plain \ltrpar\s1\ql \li0\ri0\sb440\sa60\widctlpar\wrapdefault\faauto\outlinelevel0\rin0\lin0\itap0 \rtlch\fcs1 \ab\af40\afs34\alang1025 \ltrch\fcs0 \b\fs34\lang3082\langfe3082\loch\af40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 {
-\rtlch\fcs1 \af40 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid14684195 \hich\af40\dbch\af31505\loch\f40 Introduction to Python.}{\rtlch\fcs1 \ab0\af31507\afs24 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid14684195 
-\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\af0\hich\af0\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 \af31507 \ltrch\fcs0 
-\lang1033\langfe3082\langnp1033\insrsid14684195 
-\par {\pntext\pard\plain\ltrpar \s20 \rtlch\fcs1 \af31507 \ltrch\fcs0 \b\f40\fs28\lang1033\langfe3082\langnp1033 \hich\af40\dbch\af31505\loch\f40 1.\tab}}\pard\plain \ltrpar\s20\ql \li0\ri0\sb440\sa60\widctlpar\tx431\wrapdefault{\*\pn 
-\pnlvlbody\ilvl0\ls1\pnrnot0\pndec\pnstart1\pnindent360\pnsp120 {\pntxta .}}\faauto\ls1\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\af40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 
-\af31507 \ltrch\fcs0 \b\fs28\lang1033\langfe3082\langnp1033\insrsid14684195 \hich\af40\dbch\af31505\loch\f40 Introduction
-\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\af0\hich\af0\dbch\af31505\cgrid\langnp3082\langfenp3082 {
-\rtlch\fcs1 \af31507 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid14684195 
-\par \hich\af0\dbch\af31505\loch\f0 Python is a interpreted, object-oriented, and high-level programming
+\ltrch\fcs0 \fs24\lang3082\langfe3082\loch\af0\hich\af0\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 
+\par }\pard\plain \ltrpar\s64\qc \li0\ri0\sb240\sa60\nowidctlpar\wrapdefault\faauto\outlinelevel0\rin0\lin0\itap0\pararsid16736139 \rtlch\fcs1 \ab\af0\afs32\alang1025 \ltrch\fcs0 
+\b\fs32\lang3082\langfe3082\kerning28\loch\af31502\hich\af31502\dbch\af31501\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af31502\dbch\af31501\loch\f31502 Introduction to Python.}{
+\rtlch\fcs1 \af1\afs24 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 
+\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\af0\hich\af0\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 \af1 \ltrch\fcs0 
+\lang1033\langfe3082\langnp1033\insrsid10752332 
+\par {\listtext\pard\plain\ltrpar \s1 \rtlch\fcs1 \ab\af0\afs34 \ltrch\fcs0 \b\f40\fs34\lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af40\dbch\af31505\loch\f40 1\tab}}\pard\plain \ltrpar
+\s1\ql \fi-432\li432\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\ls2\outlinelevel0\rin0\lin432\itap0\pararsid16736139 \rtlch\fcs1 \ab\af40\afs34\alang1025 \ltrch\fcs0 
+\b\fs34\lang3082\langfe3082\loch\af40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 \af40 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af40\dbch\af31505\loch\f40 Introduction}{\rtlch\fcs1 \af40 \ltrch\fcs0 
+\lang1033\langfe3082\langnp1033\insrsid5138765\charrsid5138765 
+\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\af0\hich\af0\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 \af1 \ltrch\fcs0 
+\lang1033\langfe3082\langnp1033\insrsid10752332 
+\par \hich\af0\dbch\af31505\loch\f0 Python is a}{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid5138765 \hich\af0\dbch\af31505\loch\f0 n}{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 
+\hich\af0\dbch\af31505\loch\f0  interpreted, object-oriented, and high-level programming
 \par 
-\par \hich\af0\dbch\af31505\loch\f0 language. It was created during 1985-1990 by Guido van Rosssum and It is delivered under the important differences in this language that must be considered when using Python to develop projects for GNU Radio:
+\par \hich\af0\dbch\af31505\loch\f0 language. It was created during 1985-1990 by Guido van Ro\hich\af0\dbch\af31505\loch\f0 
+sssum and It is delivered under the important differences in this language that must be considered when using Python to develop projects for GNU Radio:
 \par 
-\par \hich\af0\dbch\af31505\loch\f0 Types: In some languages the types are strictl\hich\af0\dbch\af31505\loch\f0 
-y declared. This is the case of C++, the type must be defined before using the variable. In Python, the types are assigned during runtime and they cannot be easily changed.
+\par \hich\af0\dbch\af31505\loch\f0 Types: In some languages the types are strictly declared. This is the case of C++, the type must be def\hich\af0\dbch\af31505\loch\f0 
+ined before using the variable. In Python, the types are assigned during runtime and they cannot be easily changed.
 \par 
-\par \hich\af0\dbch\af31505\loch\f0 All parameters are passed by value in Python. All variables are references to obje\hich\af0\dbch\af31505\loch\f0 
-cts, this means that when you do a copy of a variable, you are doing another reference to the same objects. In C, it is similar to getting a copy of a pointer.
+\par \hich\af0\dbch\af31505\loch\f0 All parameters are passed by value in Python. All variables are references to objects, this means that when you do a copy of a variable, yo\hich\af0\dbch\af31505\loch\f0 
+u are doing another reference to the same objects. In C, it is similar to getting a copy of a pointer.
 \par 
-\par \hich\af0\dbch\af31505\loch\f0 Memory management: C++ does not have garbage collections while Python does. For example, Python\hich\af0\dbch\af31505\loch\f0 
- maintains a reference count for every reference made to an object: when the reference is zero, it deallocates the object because it is no longer used. Beyond this technique, it uses more specific algorithms to enhance the performance of the memory.
-
+\par \hich\af0\dbch\af31505\loch\f0 Memory management: C++ does not have garbage collections while Python does. For example, Python maintains a reference count for every reference made to \hich\af0\dbch\af31505\loch\f0 
+an object: when the reference is zero, it deallocates the object because it is no longer used. Beyond this technique, it uses more specific algorithms to enhance the performance of the memory.
 \par 
-\par \hich\af0\dbch\af31505\loch\f0 Inter\hich\af0\dbch\af31505\loch\f0 preted language: While other languages are compiled, Python is an interpreted language that does not need to run a compilation stage.
-\par {\pntext\pard\plain\ltrpar \s20 \rtlch\fcs1 \af31507 \ltrch\fcs0 \b\f40\fs28\lang1033\langfe3082\langnp1033 \hich\af40\dbch\af31505\loch\f40 2.\tab}}\pard\plain \ltrpar\s20\ql \li0\ri0\sb440\sa60\widctlpar\tx431\wrapdefault{\*\pn 
-\pnlvlbody\ilvl0\ls1\pnrnot0\pndec\pnstart1\pnindent360\pnsp120 {\pntxta .}}\faauto\ls1\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\af40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 
-\af31507 \ltrch\fcs0 \b\fs28\lang1033\langfe3082\langnp1033\insrsid14684195 \hich\af40\dbch\af31505\loch\f40 Hello World
-\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\af0\hich\af0\dbch\af31505\cgrid\langnp3082\langfenp3082 {
-\rtlch\fcs1 \af31507 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid14684195 
-\par \hich\af0\dbch\af31505\loch\f0 Though typically synonymous with a shell or text terminal, a terminal allows the user access to all its a\hich\af0\dbch\af31505\loch\f0 
-pplications such as the command line interfaces. Python uses a command line interface, so in order to use the Python interpreter it is needed to use the shell. You can use XTerm from the menu of applications, as show in the following figure:
-\par 
+\par \hich\af0\dbch\af31505\loch\f0 Interpreted language: While other languages are compiled, Pyth\hich\af0\dbch\af31505\loch\f0 on is an interpreted language that does not need to run a compilation stage.
+\par {\listtext\pard\plain\ltrpar \s1 \rtlch\fcs1 \ab\af0\afs34 \ltrch\fcs0 \b\f40\fs34\lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af40\dbch\af31505\loch\f40 2\tab}}\pard\plain \ltrpar
+\s1\ql \fi-432\li432\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\ls2\outlinelevel0\rin0\lin432\itap0\pararsid16736139 \rtlch\fcs1 \ab\af40\afs34\alang1025 \ltrch\fcs0 
+\b\fs34\lang3082\langfe3082\loch\af40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 \af40 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af40\dbch\af31505\loch\f40 Hello World
+\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\af0\hich\af0\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 \af1 \ltrch\fcs0 
+\lang1033\langfe3082\langnp1033\insrsid10752332 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid4406872 {\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af0\dbch\af31505\loch\f0 
+Though typically synonymous with a shell or text terminal, a terminal allows the user access to all its applications such as the command line interfaces. Python us}{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid4406872 
+\hich\af0\dbch\af31505\loch\f0 e\hich\af0\dbch\af31505\loch\f0 s a command line interface; }{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af0\dbch\af31505\loch\f0 
+to use the Python interpreter it is needed to use the shell. }{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid4406872 \hich\af0\dbch\af31505\loch\f0 The terminal could be the program XTerm}{\rtlch\fcs1 \af1 \ltrch\fcs0 
+\lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af0\dbch\af31505\loch\f0  from the menu of applications, as show in the following figure:
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 
 \par \hich\af0\dbch\af31505\loch\f0 snapshot.png
 \par 
-\par \hich\af0\dbch\af31505\loch\f0 At the shell prompt, enter the Python interpreter by typing:
-\par 
-\par \hich\af0\dbch\af31505\loch\f0 python
-\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid4406872 {\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af0\dbch\af31505\loch\f0 At the shell prompt, }{\rtlch\fcs1 \af1 \ltrch\fcs0 
+\lang1033\langfe3082\langnp1033\insrsid4406872 \hich\af0\dbch\af31505\loch\f0 the following command launc\hich\af0\dbch\af31505\loch\f0 hes the Python shell}{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 
+\hich\af0\dbch\af31505\loch\f0 :
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 
 \par \hich\af0\dbch\af31505\loch\f0 snapshot1.png
 \par 
-\par \hich\af0\dbch\af31505\loch\f0 This is the interpreter, it uses Python functions and it can evaluate expressions. For example, you can print strings with the print command:
-\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid4406872 {\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af0\dbch\af31505\loch\f0 
+This is the interpreter, it uses Python functions and it can evaluate expressions. For example, }{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid4406872 \hich\af0\dbch\af31505\loch\f0 it is possible to}{\rtlch\fcs1 \af1 \ltrch\fcs0 
+\lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af0\dbch\af31505\loch\f0  print strings with the print command:
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 
 \par \hich\af0\dbch\af31505\loch\f0 snapshot2.png
-\par 
-\par {\pntext\pard\plain\ltrpar \s20 \rtlch\fcs1 \af31507 \ltrch\fcs0 \b\f40\fs28\lang1033\langfe3082\langnp1033 \hich\af40\dbch\af31505\loch\f40 3.\tab}}\pard\plain \ltrpar\s20\ql \li0\ri0\sb440\sa60\widctlpar\tx431\wrapdefault{\*\pn 
-\pnlvlbody\ilvl0\ls1\pnrnot0\pndec\pnstart1\pnindent360\pnsp120 {\pntxta .}}\faauto\ls1\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\af40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 
-\af31507 \ltrch\fcs0 \b\fs28\lang1033\langfe3082\langnp1033\insrsid14684195 \hich\af40\dbch\af31505\loch\f40 Mathematical operations
-\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\af0\hich\af0\dbch\af31505\cgrid\langnp3082\langfenp3082 {
-\rtlch\fcs1 \af31507 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid14684195 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid6904291 
+\par {\listtext\pard\plain\ltrpar \s2 \rtlch\fcs1 \af0 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid6904291 \hich\af0\dbch\af31505\loch\f0 2.1\tab}}\pard\plain \ltrpar
+\s2\ql \fi-576\li576\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\ls2\ilvl1\outlinelevel1\rin0\lin576\itap0\pararsid6904291 \rtlch\fcs1 \ab\af40\afs28\alang1025 \ltrch\fcs0 
+\b\fs28\lang3082\langfe3082\loch\af40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 \af40 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid6904291 \hich\af40\dbch\af31505\loch\f40 
+Print a different message in the screen using the Python shell.
+\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\af0\hich\af0\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 \af1 \ltrch\fcs0 
+\lang1033\langfe3082\langnp1033\insrsid10752332 
+\par {\listtext\pard\plain\ltrpar \s1 \rtlch\fcs1 \ab\af0\afs34 \ltrch\fcs0 \b\f40\fs34\lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af40\dbch\af31505\loch\f40 3\tab}}\pard\plain \ltrpar
+\s1\ql \fi-432\li432\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\ls2\outlinelevel0\rin0\lin432\itap0\pararsid16736139 \rtlch\fcs1 \ab\af40\afs34\alang1025 \ltrch\fcs0 
+\b\fs34\lang3082\langfe3082\loch\af40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 \af40 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af40\dbch\af31505\loch\f40 Mathematical operations
+\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\af0\hich\af0\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 \af1 \ltrch\fcs0 
+\lang1033\langfe3082\langnp1033\insrsid10752332 
 \par \hich\af0\dbch\af31505\loch\f0 Python is able to evaluate mathematical expressions using the interpreter. If only integers are used, then the results will be rounded:
 \par 
 \par \hich\af0\dbch\af31505\loch\f0 snapshot3.png
 \par 
-\par \hich\af0\dbch\af31505\loch\f0 To use a floating-point variable, It needs to be specified a decimal point, at \hich\af0\dbch\af31505\loch\f0 least in one of the operands. Python will manage the types to generate a result in decimal format:
+\par \hich\af0\dbch\af31505\loch\f0 To use a floating-point variable, }{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid16519276 \hich\af0\dbch\af31505\loch\f0 it}{\rtlch\fcs1 \af1 \ltrch\fcs0 
+\lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af0\dbch\af31505\loch\f0  needs to be specified a decimal point, at least in one of the opera\hich\af0\dbch\af31505\loch\f0 nds. Python will manage the types to generate a result in decimal format:
+
 \par 
 \par \hich\af0\dbch\af31505\loch\f0 snapshot5.png
 \par 
-\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 To use more advanced operations, the interpreter needs to load the mathematical module. In order to do this you will need to use the \'e2\loch\af0\dbch\af31505\hich\f0 \'80\'9c\hich\af0\dbch\af31505\loch\f0 impor
-\hich\af0\dbch\af31505\loch\f0 \hich\f0 t\'e2\loch\af0\dbch\af31505\hich\f0 \'80}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid14684195 \loch\af0\dbch\af31505\hich\f0 \u157\'9d}{\rtlch\fcs1 \af31507 \ltrch\fcs0 
-\lang1033\langfe3082\langnp1033\insrsid14684195 \hich\af0\dbch\af31505\loch\f0  command. To list what is available in this module, use the command dir\{math):
-\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid4406872 {\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af0\dbch\af31505\loch\f0 To use more advanced operations, the interpreter needs t}{
+\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid4406872 \hich\af0\dbch\af31505\loch\f0 o load the mathematical module. To load a module,}{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 
+\hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid4406872 \hich\af0\dbch\af31505\loch\f0 \hich\f0 it is needed to use the \'93\loch\f0 \hich\f0 import\'94}{\rtlch\fcs1 \af1 \ltrch\fcs0 
+\lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af0\dbch\af31505\loch\f0  command. To list what is av\hich\af0\dbch\af31505\loch\f0 ailable in this module, use the command dir\{math):
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 
 \par \hich\af0\dbch\af31505\loch\f0 snapshot6.png
 \par 
-\par \hich\af0\dbch\af31505\loch\f0 These are the functions that belong to the module math. Of you are uncertain about how to use any function from the mathematical module, type:
-\par 
-\par \hich\af0\dbch\af31505\loch\f0 help(math.nam\hich\af0\dbch\af31505\loch\f0 e)
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid4406872 {\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af0\dbch\af31505\loch\f0 These are the functions that belong to the module math. }{
+\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid4406872 \hich\af0\dbch\af31505\loch\f0 To get information about}{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af0\dbch\af31505\loch\f0 
+ how to use any function from the mathematical module, }{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid4406872 \hich\af0\dbch\af31505\loch\f0 it is possible to check the help information for any c\hich\af0\dbch\af31505\loch\f0 ommand
+}{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af0\dbch\af31505\loch\f0 :
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 
+\par \hich\af0\dbch\af31505\loch\f0 help(math.name)
 \par 
 \par \hich\af0\dbch\af31505\loch\f0 In this example, it is example it is shown how to use the function pow.
 \par 
 \par \hich\af0\dbch\af31505\loch\f0 snapshot8.png
 \par 
-\par \hich\af0\dbch\af31505\loch\f0 However, it should be noticed that it is not the same function if you do not use the module name. If you use the built-in function and you do:
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6365535 {\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af0\dbch\af31505\loch\f0 
+However, it should be noticed that it is not the same function if the module name}{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid6365535 \hich\af0\dbch\af31505\loch\f0  is omitted. For example, the built-in function pow}{\rtlch\fcs1 
+\af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af0\dbch\af31505\loch\f0 :
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 
+\par \hich\af0\dbch\af31505\loch\f0 help(po\hich\af0\dbch\af31505\loch\f0 w)
 \par 
-\par \hich\af0\dbch\af31505\loch\f0 help(pow)
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6365535 {\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af0\dbch\af31505\loch\f0 
+Surprisingly, it is a different function that accepts up to three arguments. It }{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid6365535 \hich\af0\dbch\af31505\loch\f0 is shown}{\rtlch\fcs1 \af1 \ltrch\fcs0 
+\lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af0\dbch\af31505\loch\f0  that the third argument is used to calculate the module, which can be useful when performing calculations in modular }{\rtlch\fcs1 \af1 \ltrch\fcs0 
+\lang1033\langfe3082\langnp1033\insrsid16669075 \hich\af0\dbch\af31505\loch\f0 arithmetic.}{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6365535 {\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af0\dbch\af31505\loch\f0 snapshot7.png}{\rtlch\fcs1 \af1 \ltrch\fcs0 
+\lang1033\langfe3082\langnp1033\insrsid6365535 
 \par 
-\par \hich\af0\dbch\af31505\loch\f0 Surprisingly, it is a different function that accepts up to three arguments. It says that the third argument is used to calculate the module, which can be useful when performing calculations in modular }{\rtlch\fcs1 
-\af31507 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid16669075 \hich\af0\dbch\af31505\loch\f0 arithmetic.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid14684195 
-\par 
-\par \hich\af0\dbch\af31505\loch\f0 snapshot7.png
-\par {\pntext\pard\plain\ltrpar \s20 \rtlch\fcs1 \af31507 \ltrch\fcs0 \b\f40\fs28\lang1033\langfe3082\langnp1033 \hich\af40\dbch\af31505\loch\f40 4.\tab}}\pard\plain \ltrpar\s20\ql \li0\ri0\sb440\sa60\widctlpar\tx431\wrapdefault{\*\pn 
-\pnlvlbody\ilvl0\ls1\pnrnot0\pndec\pnstart1\pnindent360\pnsp120 {\pntxta .}}\faauto\ls1\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\af40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 
-\af31507 \ltrch\fcs0 \b\fs28\lang1033\langfe3082\langnp1033\insrsid14684195 \hich\af40\dbch\af31505\loch\f40 Variables
-\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0\pararsid14175042 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
-\fs24\lang3082\langfe3082\loch\af0\hich\af0\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 \af31507 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid14684195 \hich\af0\dbch\af31505\loch\f0 These mathem\hich\af0\dbch\af31505\loch\f0 
-atical expressions generate a result that can be assigned to a variable. While in Matlab you can specify If you want to display the output of an operation, by default it is omitted in Python. In order to }{\rtlch\fcs1 \af31507 \ltrch\fcs0 
-\lang1033\langfe3082\langnp1033\insrsid14175042 \hich\af0\dbch\af31505\loch\f0 display}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid14684195 \hich\af0\dbch\af31505\loch\f0  the resul\hich\af0\dbch\af31505\loch\f0 t}{
-\rtlch\fcs1 \af31507 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid3093593 ,}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid14684195 \hich\af0\dbch\af31505\loch\f0  you must either evaluate the variabl
-\hich\af0\dbch\af31505\loch\f0 e or print it:
-\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af31507 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid14684195 
+\par {\listtext\pard\plain\ltrpar \s1 \rtlch\fcs1 \ab\af0\afs34 \ltrch\fcs0 \b\f40\fs34\lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af40\dbch\af31505\loch\f40 4\tab}}\pard\plain \ltrpar
+\s1\ql \fi-432\li432\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\ls2\outlinelevel0\rin0\lin432\itap0\pararsid16736139 \rtlch\fcs1 \ab\af40\afs34\alang1025 \ltrch\fcs0 
+\b\fs34\lang3082\langfe3082\loch\af40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 \af40 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af40\dbch\af31505\loch\f40 Variables
+\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid4406872 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\af0\hich\af0\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 \af1 
+\ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af0\dbch\af31505\loch\f0 
+These mathematical expressions generate a result that can be assigned to a variable. While in Matlab you can specify If you want to display the output of an operation, by d}{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid4406872 
+\hich\af0\dbch\af31505\loch\f0 efault it is omitted in Python, so that }{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af0\dbch\af31505\loch\f0 to }{\rtlch\fcs1 \af1 \ltrch\fcs0 
+\lang1033\langfe3082\langnp1033\insrsid14175042 \hich\af0\dbch\af31505\loch\f0 display}{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af0\dbch\af31505\loch\f0  the result}{\rtlch\fcs1 \af1 \ltrch\fcs0 
+\lang1033\langfe3082\langnp1033\insrsid3093593 ,}{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af0\dbch\af31505\loch\f0  you must ei\hich\af0\dbch\af31505\loch\f0 ther evaluate the variable or print it:
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 
 \par \hich\af0\dbch\af31505\loch\f0 snapshot9.png
 \par 
 \par \hich\af0\dbch\af31505\loch\f0 Lists are denoted by square brackets and you can assign a list to a variable. Also, they can have any kind of value inside, for example strings and integers:
 \par 
 \par \hich\af0\dbch\af31505\loch\f0 snapshot10.png
 \par 
-\par \hich\af0\dbch\af31505\loch\f0 To select an element from a list, use square brack\hich\af0\dbch\af31505\loch\f0 
-ets. As it happens in C++, the first element of the list will have an index zero. Also, it can be specified a range of values just like in Matlab:
+\par \hich\af0\dbch\af31505\loch\f0 To select an element from\hich\af0\dbch\af31505\loch\f0 
+ a list, use square brackets. As it happens in C++, the first element of the list will have an index zero. Also, it can be specified a range of values just like in Matlab:
 \par 
 \par \hich\af0\dbch\af31505\loch\f0 snapshot11.png
-\par {\pntext\pard\plain\ltrpar \s20 \rtlch\fcs1 \af31507 \ltrch\fcs0 \b\f40\fs28\lang1033\langfe3082\langnp1033 \hich\af40\dbch\af31505\loch\f40 5.\tab}}\pard\plain \ltrpar\s20\ql \li0\ri0\sb440\sa60\widctlpar\tx431\wrapdefault{\*\pn 
-\pnlvlbody\ilvl0\ls1\pnrnot0\pndec\pnstart1\pnindent360\pnsp120 {\pntxta .}}\faauto\ls1\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\af40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 
-\af31507 \ltrch\fcs0 \b\fs28\lang1033\langfe3082\langnp1033\insrsid14684195 \hich\af40\dbch\af31505\loch\f40 Functions
-\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid16669075 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\af0\hich\af0\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 \af31507 
+\par {\listtext\pard\plain\ltrpar \s2 \rtlch\fcs1 \af0 \ltrch\fcs0 \cs62\lang1033\langfe3082\langnp1033\insrsid6904291\charrsid13857270 \hich\af0\dbch\af31505\loch\f0 4.1\tab}}\pard\plain \ltrpar
+\s2\ql \fi-576\li576\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\ls2\ilvl1\outlinelevel1\rin0\lin576\itap0\pararsid6904291 \rtlch\fcs1 \ab\af40\afs28\alang1025 \ltrch\fcs0 
+\b\fs28\lang3082\langfe3082\loch\af40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 \af40 \ltrch\fcs0 \cs62\lang1033\langfe3082\langnp1033\insrsid6904291\charrsid13857270 \hich\af40\dbch\af31505\loch\f40 Write the following }{
+\rtlch\fcs1 \af40 \ltrch\fcs0 \cs62\lang1033\langfe3082\langnp1033\insrsid6904291 \hich\af40\dbch\af31505\loch\f40 expressions}{\rtlch\fcs1 \af40 \ltrch\fcs0 \cs62\lang1033\langfe3082\langnp1033\insrsid6904291\charrsid13857270 
+\hich\af40\dbch\af31505\loch\f40  in Python}{\rtlch\fcs1 \af40 \ltrch\fcs0 \cs62\lang1033\langfe3082\langnp1033\insrsid6904291 \hich\af40\dbch\af31505\loch\f40  and evaluate them}{\rtlch\fcs1 \af40 \ltrch\fcs0 
+\cs62\lang1033\langfe3082\langnp1033\insrsid6904291\charrsid13857270 \hich\af40\dbch\af31505\loch\f40 : }{\rtlch\fcs1 \af40 \ltrch\fcs0 \cs62\lang1033\langfe3082\langnp1033\insrsid6904291 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f3\lang1033\langfe3082\langnp1033\insrsid6904291 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}}\pard\plain \ltrpar
+\ql \fi-360\li720\ri0\nowidctlpar\wrapdefault\faauto\ls3\rin0\lin720\itap0\pararsid6904291 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\af0\hich\af0\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\lang1033\langfe3082\langnp1033\insrsid6904291 \hich\af0\dbch\af31505\loch\f0 S\hich\af0\dbch\af31505\loch\f0 napshot\hich\af0\dbch\af31505\loch\f0  14
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f3\lang1033\langfe3082\langnp1033\insrsid6904291 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}\hich\af0\dbch\af31505\loch\f0 Snapshot 15
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f3\lang1033\langfe3082\langnp1033\insrsid6904291 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}\hich\af0\dbch\af31505\loch\f0 Snapshot 16
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f3\lang1033\langfe3082\langnp1033\insrsid6904291 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}\hich\af0\dbch\af31505\loch\f0 Snapshot 17
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f3\lang1033\langfe3082\langnp1033\insrsid6904291 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}\hich\af0\dbch\af31505\loch\f0 Snapshot 18}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\lang1033\langfe3082\langnp1033\insrsid6904291\charrsid13857270 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid6904291 
+\par {\listtext\pard\plain\ltrpar \s1 \rtlch\fcs1 \ab\af0\afs34 \ltrch\fcs0 \b\f40\fs34\lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af40\dbch\af31505\loch\f40 5\tab}}\pard\plain \ltrpar
+\s1\ql \fi-432\li432\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\ls2\outlinelevel0\rin0\lin432\itap0\pararsid16736139 \rtlch\fcs1 \ab\af40\afs34\alang1025 \ltrch\fcs0 
+\b\fs34\lang3082\langfe3082\loch\af40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 \af40 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid10752332 \hich\af40\dbch\af31505\loch\f40 Functions
+\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid16669075 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang3082\langfe3082\loch\af0\hich\af0\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 \af1 
 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid16669075 \hich\af0\dbch\af31505\loch\f0 In order to define functions, the block of code }{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid16669075\charrsid16669075 
 \hich\af0\dbch\af31505\loch\f0 begin}{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid16669075 \hich\af0\dbch\af31505\loch\f0 s}{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid16669075\charrsid16669075 
 \hich\af0\dbch\af31505\loch\f0  with the keyword def followed by the functi}{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid3093593 \hich\af0\dbch\af31505\loch\f0 
 on name and parentheses ( ( ) ), and inside of them there can be arguments.}{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid2709175 
 \par 
-\par \hich\af0\dbch\af31505\loch\f0 The following \hich\af0\dbch\af31505\loch\f0 examp\hich\af0\dbch\af31505\loch\f0 le takes an argument and }{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid13388416 \hich\af0\dbch\af31505\loch\f0 
-prints the argument as a string\hich\af0\dbch\af31505\loch\f0 . In Python there is no need to specify the type of the arguments and the interpreter does an implicit casting of the types by itself:}{\rtlch\fcs1 \af1 \ltrch\fcs0 
-\lang1033\langfe3082\langnp1033\insrsid14684195 
+\par \hich\af0\dbch\af31505\loch\f0 The following example takes an argument and }{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid13388416 \hich\af0\dbch\af31505\loch\f0 
+prints the argument as a string. In Python there is no need to specify the type of the argu\hich\af0\dbch\af31505\loch\f0 ments and the interpreter does an implicit casting of the types by itself:}{\rtlch\fcs1 \af1 \ltrch\fcs0 
+\lang1033\langfe3082\langnp1033\insrsid10752332 
 \par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid3093593 
-\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid3093593 {\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid2709175 \hich\af0\dbch\af31505\loch\f0 F\hich\af0\dbch\af31505\loch\f0 igure 
-\hich\af0\dbch\af31505\loch\f0 12}{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid3093593 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid3093593 {\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid2709175 \hich\af0\dbch\af31505\loch\f0 Figure 12}{\rtlch\fcs1 \af1 \ltrch\fcs0 
+\lang1033\langfe3082\langnp1033\insrsid3093593 
 \par 
 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid13388416 {\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid3093593\charrsid3093593 \hich\af0\dbch\af31505\loch\f0 
 All parameters (arguments) in the Python language are passed by reference}{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid13388416 \hich\af0\dbch\af31505\loch\f0 
 . In this example the following does not need to return the list to modify its value, sinc\hich\af0\dbch\af31505\loch\f0 e it is passed by reference:}{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid3093593 
 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid3093593 {\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid3093593 
-\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid2709175 \hich\af0\dbch\af31505\loch\f0 Figure 13}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid3093593 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid2709175 \hich\af0\dbch\af31505\loch\f0 Figure 13}{\rtlch\fcs1 \af1 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid3093593 
+\par {\listtext\pard\plain\ltrpar \s2 \rtlch\fcs1 \af0 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid6904291 \hich\af0\dbch\af31505\loch\f0 5.1\tab}}\pard\plain \ltrpar
+\s2\ql \fi-576\li576\ri0\sb440\sa60\nowidctlpar\wrapdefault\faauto\ls2\ilvl1\outlinelevel1\rin0\lin576\itap0\pararsid6904291 \rtlch\fcs1 \ab\af40\afs28\alang1025 \ltrch\fcs0 
+\b\fs28\lang3082\langfe3082\loch\af40\hich\af40\dbch\af31505\cgrid\langnp3082\langfenp3082 {\rtlch\fcs1 \af40 \ltrch\fcs0 \lang1033\langfe3082\langnp1033\insrsid6904291 \hich\af40\dbch\af31505\loch\f40 
+Create a list containing the following elements [3, 4, 6\hich\af40\dbch\af31505\loch\f40 , 1, 5, 8\hich\af40\dbch\af31505\loch\f40 ] and define a functi\hich\af40\dbch\af31505\loch\f40 on to \hich\af40\dbch\af31505\loch\f40 
+pow to the second power every element of the list.
 \par }{\*\themedata 504b030414000600080000002100e9de0fbfff0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb4ec3301045f748fc83e52d4a
 9cb2400825e982c78ec7a27cc0c8992416c9d8b2a755fbf74cd25442a820166c2cd933f79e3be372bd1f07b5c3989ca74aaff2422b24eb1b475da5df374fd9ad
 5689811a183c61a50f98f4babebc2837878049899a52a57be670674cb23d8e90721f90a4d2fa3802cb35762680fd800ecd7551dc18eb899138e3c943d7e503b6
@@ -292,19 +372,8 @@ c6c0ca53f9c86201e155bc76ff050000ffff0300504b0304140006000800000021000dd1909fb600
 \lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Bottom of Form;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Normal (Web);\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Acronym;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Address;
 \lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Cite;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Code;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Definition;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Keyboard;
 \lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Preformatted;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Sample;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Typewriter;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Variable;
-\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Normal Table;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 annotation subject;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 No List;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 1;
-\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Simple 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Simple 2;
-\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Simple 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Classic 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Classic 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Classic 3;
-\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Classic 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Colorful 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Colorful 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Colorful 3;
-\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 4;
-\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 3;
-\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 6;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 7;
-\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 8;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 3;
-\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 6;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 7;
-\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 8;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table 3D effects 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table 3D effects 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table 3D effects 3;
-\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Contemporary;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Elegant;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Professional;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Subtle 1;
-\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Subtle 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Web 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Web 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Web 3;
-\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Balloon Text;\lsdpriority39 \lsdlocked0 Table Grid;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Theme;\lsdsemihidden1 \lsdlocked0 Placeholder Text;\lsdqformat1 \lsdpriority1 \lsdlocked0 No Spacing;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 annotation subject;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 No List;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 2;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Balloon Text;\lsdpriority39 \lsdlocked0 Table Grid;\lsdsemihidden1 \lsdlocked0 Placeholder Text;\lsdqformat1 \lsdpriority1 \lsdlocked0 No Spacing;
 \lsdpriority60 \lsdlocked0 Light Shading;\lsdpriority61 \lsdlocked0 Light List;\lsdpriority62 \lsdlocked0 Light Grid;\lsdpriority63 \lsdlocked0 Medium Shading 1;\lsdpriority64 \lsdlocked0 Medium Shading 2;\lsdpriority65 \lsdlocked0 Medium List 1;
 \lsdpriority66 \lsdlocked0 Medium List 2;\lsdpriority67 \lsdlocked0 Medium Grid 1;\lsdpriority68 \lsdlocked0 Medium Grid 2;\lsdpriority69 \lsdlocked0 Medium Grid 3;\lsdpriority70 \lsdlocked0 Dark List;\lsdpriority71 \lsdlocked0 Colorful Shading;
 \lsdpriority72 \lsdlocked0 Colorful List;\lsdpriority73 \lsdlocked0 Colorful Grid;\lsdpriority60 \lsdlocked0 Light Shading Accent 1;\lsdpriority61 \lsdlocked0 Light List Accent 1;\lsdpriority62 \lsdlocked0 Light Grid Accent 1;
@@ -352,17 +421,33 @@ c6c0ca53f9c86201e155bc76ff050000ffff0300504b0304140006000800000021000dd1909fb600
 \lsdpriority49 \lsdlocked0 List Table 4 Accent 5;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 5;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 5;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 5;
 \lsdpriority46 \lsdlocked0 List Table 1 Light Accent 6;\lsdpriority47 \lsdlocked0 List Table 2 Accent 6;\lsdpriority48 \lsdlocked0 List Table 3 Accent 6;\lsdpriority49 \lsdlocked0 List Table 4 Accent 6;
 \lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 6;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 6;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 6;}}{\*\datastore 010500000200000018000000
-4d73786d6c322e534158584d4c5265616465722e362e3000000000000000000000060000
-d0cf11e0a1b11ae1000000000000000000000000000000003e000300feff090006000000000000000000000001000000010000000000000000100000feffffff00000000feffffff0000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+4d73786d6c322e534158584d4c5265616465722e362e30000000000000000000000e0000
+d0cf11e0a1b11ae1000000000000000000000000000000003e000300feff0900060000000000000000000000010000000100000000000000001000000200000001000000feffffff0000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffdffffff04000000feffffff05000000fefffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e500000000000000000000000050b1
-083915cad101feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
-00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
-000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
-0000000000000000000000000000000000000000000000000105000000000000}}
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffff010000000c6ad98892f1d411a65f0040963251e5000000000000000000000000d0ec
+eb4d1bcad10103000000c0020000000000004d0073006f004400610074006100530074006f0072006500000000000000000000000000000000000000000000000000000000000000000000000000000000001a000101ffffffffffffffff020000000000000000000000000000000000000000000000d0eceb4d1bcad101
+d0eceb4d1bcad1010000000000000000000000004c00d1005900d0004600cd00ce00430051004500da00d4003400da00d7004a005600d300570052004b0051003d003d000000000000000000000000000000000032000101ffffffffffffffff030000000000000000000000000000000000000000000000d0eceb4d1bca
+d101d0eceb4d1bcad1010000000000000000000000004900740065006d0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a000201ffffffff04000000ffffffff000000000000000000000000000000000000000000000000
+00000000000000000000000000000000320100000000000001000000020000000300000004000000feffffff060000000700000008000000090000000a000000feffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff3c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d226e6f223f3e3c623a536f757263657320786d6c6e733a623d22687474703a2f2f736368656d61732e6f70656e78
+6d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f6269626c696f6772617068792220786d6c6e733d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f6269626c696f677261706879222053656c
+65637465645374796c653d225c415041536978746845646974696f6e4f66666963654f6e6c696e652e78736c22205374796c654e616d653d22415041222056657273696f6e3d2236223e3c2f623a536f75726365733e00000000000000000000000000003c3f786d6c2076657273696f6e3d22312e302220656e636f6469
+6e673d225554462d3822207374616e64616c6f6e653d226e6f223f3e0d0a3c64733a6461746173746f72654974656d2064733a6974656d49443d227b31363330313632462d383244422d344534302d423437422d4144433935373335393132397d2220786d6c6e733a64733d22687474703a2f2f736368656d61732e6f70
+656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f637573500072006f007000650072007400690065007300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000200ffffffffffffffffffffffff000000000000
+0000000000000000000000000000000000000000000000000000000000000500000055010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000746f6d586d6c223e3c64733a736368656d61526566733e3c64733a736368656d615265662064733a7572693d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f7267
+2f6f6666696365446f63756d656e742f323030362f6269626c696f677261706879222f3e3c2f64733a736368656d61526566733e3c2f64733a6461746173746f72654974656d3e00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000105000000000000}}
